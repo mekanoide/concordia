@@ -6,6 +6,6 @@ coverY: -200.89373297002723
 
 # Sistema de juego
 
-Concordia tiene un sistema de juego ligero y flexible que trata de facilitar que director y jugadores se centren en la aventura sin tener que recordar un montón de mecánicas y elementos de juego, pero a la vez conservando riqueza y profundidad.
+El sistema de juego de Concordia prima la agilidad y flexibilidad sobre el detalle. Apenas hay cálculo, las mecánicas son simples y generales para interponerse lo menos posible entre la narración y los jugadores.
 
-El sistema de juego acompaña a una ambientación de ciencia ficción, aunque el sistema puede adaptarse a cualquier otro universo y tipo de aventura.
+Para jugar solo necesitas dados de 6 caras, un par de ellos de diferente color.
