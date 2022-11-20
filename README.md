@@ -4,8 +4,8 @@ cover: >-
 coverY: -200.89373297002723
 ---
 
-# Sistema de juego
+# Intro
 
 El sistema de juego de Concordia prima la agilidad y flexibilidad sobre el detalle. Apenas hay cálculo, las mecánicas son simples y generales para interponerse lo menos posible entre la narración y los jugadores.
 
-Para jugar solo necesitas dados de 6 caras, un par de ellos de diferente color.
+Para jugar solo necesitas un puñado de dados de 6 caras, un par de ellos de diferente color.
