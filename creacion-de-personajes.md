@@ -14,11 +14,9 @@ Los Rasgos tienen tres posibles niveles que representan su intensidad, grado de 
 
 Para empezar a dar forma a tu personaje, elige una distribución de Rasgos.
 
-| Tipo de personaje    | Distribución de Rasgos                |
-| -------------------- | ------------------------------------- |
-| **Maestro de nada**  | 1 Rasgo notable y 5 corrientes        |
-| **Especialista**     | 2 Rasgos notables y 3 corrientes      |
-| **Todo a una carta** | 1 Rasgo extraordinario y 2 corrientes |
+* **Maestro de nada:** 1 Rasgo notable y 5 corrientes.
+* **Especialista:** 2 Rasgos notables y 3 corrientes.
+* **Todo a una carta:** 1 Rasgo extraordinario y 2 corrientes.
 
 ## Dominios
 
