@@ -6,19 +6,19 @@ Una escena puede ser un tiroteo, un baile, una negociación o el tratamiento de 
 
 La conversación entre director y jugadores sigue habitualmente esta secuencia:
 
-#### 1. Descripción de la escena
+## 1. Descripción de la escena
 
 El director describe una escena, abierta a la reacción de los jugadores.
 
-#### 2. Reacción de los jugadores
+## 2. Reacción de los jugadores
 
 Los jugadores describen sus objetivos, cómo pretenden lograrlos y qué Rasgos pueden ayudarles.
 
-#### 3. Dificultad, sacrificios, actitud
+## 3. Dificultad, sacrificios, actitud
 
 El director explica la dificultad y riesgos que la acción de los jugadores conlleva.
 
-#### 4. Desenlace de la escena
+## 4. Desenlace de la escena
 
 La escena puede resolverse de forma narrativa o tirando dados.
 
