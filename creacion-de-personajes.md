@@ -10,7 +10,7 @@ Los Rasgos tienen tres posibles niveles que representan su intensidad, grado de 
 
 | Nivel del Rasgo         | Descripción                                                                                                                                                                                                                                                                                                               |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Corriente** (1D)      | Representa una característica distintiva pero secundaria del personaje, y que no se sale de lo que se considera normal.                                                                                                                                                                                                   |
+| **Corriente** (1D)      | Representa una característica secundaria del personaje, y que no se sale de lo que se considera normal.                                                                                                                                                                                                                   |
 | **Notable** (2D)        | El Rasgo tiene un papel central para el personaje. Si el Rasgo es una habilidad, será el resultado de una cantidad importante de tiempo y recursos invertidos, y se podrá considerar al personaje un experto o profesional. Si es una característica física o de personalidad, será una llamativa y difícil de disimular. |
 | **Extraordinario** (3D) | este Rasgo condiciona de manera absoluta la vida del personaje y le hace destacar por encima de casi todo el mundo.                                                                                                                                                                                                       |
 
@@ -35,11 +35,11 @@ Existen cuatro Dominios, que representan **las aptitudes generales del personaje
 
 Los Dominios también constituyen la resistencia del personaje a diferentes fuentes de tensión o daño. Por ejemplo, un personaje que fracasa estrepitosamente en un intento de negociación, recibirá tensión en su mio **Sociedad**. Con mucha tensión acumulada, podría llegar a verse seriamente impedido para realizar cualquier otra acción en esta área.
 
-**Niveles de los Dominios**
+### **Niveles de los Dominios**
 
-Los Dominios tienen tres posibles niveles: bajo (2D), medio (3D) y alto (4D). Representan dónde se encuentran en relación a la media humana.
+Los Dominios tienen tres posibles niveles: bajo (1D), medio (2D) y alto (3D). Representan dónde se encuentran en relación a la media humana.
 
-**Distribución de los Dominios**
+### **Distribución de los Dominios**
 
 | Tipo de personaje | Distribución de los niveles                                |
 | ----------------- | ---------------------------------------------------------- |
