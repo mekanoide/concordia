@@ -1,14 +1,14 @@
 # Table of contents
 
-## Sistema de juego
+* [Creación de personajes](README.md)
 
-* [Introducción](README.md)
-* [Creación de personajes](sistema-de-juego/creacion-de-personajes.md)
-* [Jugar](sistema-de-juego/jugar/README.md)
-  * [Secuencia de juego](sistema-de-juego/jugar/secuencia-de-juego.md)
-  * [Actitud](sistema-de-juego/jugar/actitud.md)
-  * [Dificultad](sistema-de-juego/jugar/dificultad.md)
-  * [Dado de efectos](sistema-de-juego/jugar/dado-de-efectos.md)
+## Cómo jugar
+
+* [Conceptos básicos de juego](como-jugar/conceptos-basicos-de-juego.md)
+* [Secuencia de juego](como-jugar/secuencia-de-juego.md)
+* [Dado de efectos](como-jugar/dado-de-efectos.md)
+* [Actitud](como-jugar/actitud.md)
+* [Dificultad](como-jugar/dificultad.md)
 
 ## Ambientación
 
