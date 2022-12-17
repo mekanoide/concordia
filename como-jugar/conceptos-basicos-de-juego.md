@@ -8,5 +8,6 @@ Para jugar solo necesitas un puñado de dados de 6 caras, un par de ellos de dif
 
 Algunos conceptos básicos son:
 
-* Solo los jugadores tiran dados
+* Una tirada de dados representa el desenlace general de una escena, no una acción individual
 * No existen las tiradas enfrentadas
+* El director jamás tira dados, solo los jugadores
