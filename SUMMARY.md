@@ -8,7 +8,7 @@
 * [Secuencia de juego](como-jugar/secuencia-de-juego.md)
 * [Dado de efectos](como-jugar/dado-de-efectos.md)
 * [Actitud](como-jugar/actitud.md)
-* [Dificultad, sacrificios y actitud](como-jugar/dificultad-sacrificios-y-actitud.md)
+* [Dificultad y actitud](como-jugar/dificultad-y-actitud.md)
 
 ## Ambientación
 
