@@ -28,6 +28,5 @@ La escena puede resolverse de forma narrativa o tirando dados.
 Da igual que el desenlace sea positivo o negativo, después de dar por terminada la escena, la historia avanza. Es decir, el final de una escena no puede ser igual al principio.
 
 {% hint style="info" %}
-**Nota para el director:** algunos jugadores pueden estar acostumbrados a otro tipo de juegos de rol y verse tentados de iniciar sus acciones diciendo «tiro buscar». En Concordia tratamos de que la tirada de dados sea una forma de decidir qué tal ha ido la escena narrada, pero no una acción en sí misma.
+Tanto director como jugadores pueden estar acostumbrados a otro tipo de juegos de rol en los que es normal que los jugadores inicien sus acciones declarando acciones asociadas a habilidades o atributos concretos. En Concordia, sin embargo, tratamos de que la tirada de dados sea una forma de decidir si los jugadores logran sus objetivos en la escena narrada, pero nunca una acción en sí misma.
 {% endhint %}
-
