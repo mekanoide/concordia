@@ -14,7 +14,7 @@ El director describe una escena, abierta a la reacción de los jugadores.
 
 Los jugadores describen sus objetivos, cómo pretenden lograrlos y qué Rasgos pueden ayudarles.
 
-## 3. Dificultad, sacrificios, actitud
+## 3. Dificultad, ventajas, actitud
 
 El director explica la dificultad y riesgos que la acción de los jugadores conlleva.
 

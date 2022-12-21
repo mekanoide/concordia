@@ -4,11 +4,10 @@
 
 ## Cómo jugar
 
-* [Conceptos básicos de juego](como-jugar/conceptos-basicos-de-juego.md)
+* [Conceptos básicos](como-jugar/conceptos-basicos.md)
 * [Secuencia de juego](como-jugar/secuencia-de-juego.md)
-* [Dado de efectos](como-jugar/dado-de-efectos.md)
-* [Actitud](como-jugar/actitud.md)
-* [Dificultad y actitud](como-jugar/dificultad.md)
+* [Dificultad, ventajas y actitud](como-jugar/dificultad-ventajas-y-actitud.md)
+* [Desenlace de la escena](como-jugar/desenlace-de-la-escena.md)
 
 ## Ambientación
 
