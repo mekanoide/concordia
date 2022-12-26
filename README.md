@@ -1,10 +1,8 @@
 # Creación de personajes
 
-Los personajes de Concordia no están segmentados por profesión, clase, arquetipo u otro sistema rígido de clasificación. Se basan en un elemento fundamental: los Rasgos.
+Los personajes en Concordia no están segmentados por profesión, clase, arquetipo u otro sistema rígido de clasificación. Se basan en Rasgos, que son breves descripciones.
 
 ## Rasgos
-
-**Los Rasgos son breves descripciones de las características que hacen único a un personaje**. Pueden referirse a habilidades, atributos físicos o de personalidad, datos biográficos, logros profesionales, posición social, conocimientos, etc. Un Rasgo puede ser útil en muy diferentes situaciones. Por ejemplo, el Rasgo _Luchó contra las máquinas en la revuelta robótica de Malta_ puede funcionar como habilidad en situaciones de combate, pero el estatus de veterano también podrá ser útil en escenas sociales o para facilitar trámites. La referencia a Malta indica que el personaje conoce esa isla, lo que podría servirle para encontrar recursos o contactos allí.
 
 Los Rasgos tienen tres posibles niveles que representan su intensidad, grado de relevancia y rareza.
 

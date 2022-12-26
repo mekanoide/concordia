@@ -1,9 +1,5 @@
 # Secuencia de juego
 
-La unidad básica de narración en Concordia es la escena. Las escenas no son turnos ni movimientos concretos, sino situaciones de duración variable en las que se dan circunstancias concretas y participan unos personajes, tanto jugadores como no jugadores.
-
-Una escena puede ser un tiroteo, un baile, una negociación o el tratamiento de una herida, pero también un viaje en barco de varios días o la construcción de una casa.
-
 La conversación entre director y jugadores sigue habitualmente esta secuencia:
 
 ## 1. Descripción de la escena
