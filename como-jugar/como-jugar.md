@@ -1,4 +1,6 @@
-# Secuencia de juego
+# Cómo jugar
+
+## Secuencia de juego
 
 La conversación entre director y jugadores sigue habitualmente esta secuencia:
 
