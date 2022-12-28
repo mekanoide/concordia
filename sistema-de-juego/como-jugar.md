@@ -13,7 +13,7 @@ La conversación entre director y jugadores sigue habitualmente esta secuencia:
 
 ## Tirada de dados
 
-El jugador tira tantos dados de 6 como la suma de Rasgo, Dominio y Estados implicados. Cada resultado de 5 o 6 cuenta como un éxito. Con un éxito, el personaje logra su objetivo.
+El jugador tira tantos dados de 6 como la suma de Rasgo, Dominio y Estados implicados. Cada resultado de 5 o 6 cuenta como un éxito. Con un éxito, el personaje logra su objetivo. Con éxitos adicionales, el objetivo se consigue de manera más contundente.
 
 {% hint style="info" %}
 Tanto director como jugadores pueden estar acostumbrados a otro tipo de juegos de rol en los que es normal que los jugadores inicien sus acciones declarando acciones asociadas a habilidades o atributos concretos. En Concordia, sin embargo, tratamos de que la tirada de dados sea una forma de decidir si los jugadores logran sus objetivos en la escena narrada, pero nunca una acción en sí misma.
@@ -21,7 +21,7 @@ Tanto director como jugadores pueden estar acostumbrados a otro tipo de juegos d
 
 ## Dado de sucesos
 
-Uno de los dados (el último en la lista en apps o uno de otro color en mesa) es el dado de sucesos. Funciona como los demás dados, pero tiene estas reglas adicionales:
+Uno de los dados (uno de diferente color dados físicos o el último en una aplicación de lanzamiento de dados) es el dado de sucesos. Funciona como los demás dados, pero tiene estas reglas adicionales:
 
 * **1 es un REVÉS**, que puede tomar la forma de:
   * **Daño:** el PJ recibe todo el daño potencial de la escena (daño de un cuchillo, daño social al quedar en ridículo…).
@@ -32,7 +32,7 @@ Uno de los dados (el último en la lista en apps o uno de otro color en mesa) es
   * **Giro de guión:** ocurre algo inesperado en la escena que beneficia al PJ o grupo.
   * **Ganancia:** el PJ recibe un Estado o Recurso que no estaba buscando; una pieza de equipo, información, dinero, reputación, acceso a algo.
 
-Estos acontecimientos son independientes del resultado de la tirada, pero pueden precipitar nuevas escenas o cambiar las condiciones en que se inician.
+Estos efectos añadidos son independientes del resultado de la tirada (un personaje puede lograr su tirada y a la vez sufrir un revés), pero pueden precipitar nuevas escenas o cambiar las condiciones en que se inician.
 
 El jugador puede sacrificar un éxito para eliminar un Revés.
 
