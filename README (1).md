@@ -43,4 +43,4 @@ Los Dominios tienen tres posibles niveles: bajo (1D), medio (2D) y alto (3D). Re
 
 ## Posesiones
 
-En Concordia no hay un listado exhaustivo de equipo y posesiones. De acuerdo con el concepto y Rasgos de cada personaje, se asumen una serie de posesiones estándar, mientras que una pieza de equipo especial puede adquirirse en forma de Rasgo.
+En Concordia no hay un listado exhaustivo de equipo y posesiones. De acuerdo con el concepto y Rasgos de cada personaje, se asumen una serie de posesiones estándar.
