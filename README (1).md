@@ -27,7 +27,7 @@ Existen cuatro Dominios, que representan **las aptitudes generales del personaje
 | **Entorno**  | Representa la conexión del personaje con el mundo que le rodea y se usa para toda acción relacionada con percepción, orientación, sigilo, comprensión de mecanismos y sistemas, precisión, pulso, puntería, equilibrio y destreza manual.            |
 | **Sociedad** | Todo lo que supone relacionarse con otros personajes depende de este mio. Convencer, seducir, mentir y detectar mentiras, intimidar, negociar o empatizar.                                                                                           |
 
-Los Dominios también constituyen la resistencia del personaje a diferentes fuentes de tensión o daño. Por ejemplo, un personaje que fracasa estrepitosamente en un intento de negociación, recibirá tensión en su mio **Sociedad**. Con mucha tensión acumulada, podría llegar a verse seriamente impedido para realizar cualquier otra acción en esta área.
+Los Dominios también constituyen la resistencia del personaje a diferentes fuentes de tensión o daño. Por ejemplo, un personaje que fracasa estrepitosamente en un intento de negociación, recibirá tensión en su Dominio **Sociedad**. Con mucha tensión acumulada, podría llegar a verse seriamente impedido para realizar cualquier otra acción en esta área.
 
 ### **Niveles de los Dominios**
 
