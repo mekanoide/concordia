@@ -6,15 +6,15 @@ Los personajes en Concordia no están segmentados por profesión, clase, arqueti
 
 Los Rasgos tienen tres posibles niveles que representan su intensidad, grado de relevancia y rareza.
 
-* **Corriente (1D6):** representa una característica secundaria del personaje, y que no se sale de lo que se considera normal.
+* **Corriente (1D6):** representa una característica secundaria del personaje, y que no se sale de lo que se considera normal en la población.
 * **Notable (2D6):** el Rasgo tiene un papel central para el personaje. Si el Rasgo es una habilidad, será el resultado de una cantidad importante de tiempo y recursos invertidos, y se podrá considerar al personaje un experto o profesional. Si es una característica física o de personalidad, será una llamativa y difícil de disimular.
 * **Extraordinario (3D6):** este Rasgo condiciona de manera absoluta la vida del personaje y le hace destacar por encima de casi todo el mundo.
 
 Para empezar a dar forma a tu personaje, elige una distribución de Rasgos.
 
-* **Maestro de nada:** 1 Rasgo notable y 5 corrientes.
-* **Especialista:** 2 Rasgos notables y 3 corrientes.
-* **Todo a una carta:** 1 Rasgo extraordinario y 2 corrientes.
+* **Maestro de nada:** 4 Rasgos corrientes.
+* **Especialista:** 1 Rasgo notable y 2 corrientes.
+* **Todo a una carta:** 1 Rasgo extraordinario y 1 corriente.
 
 ## Dominios
 
