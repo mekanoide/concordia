@@ -1,14 +1,16 @@
 # Creación de personajes
 
-Los personajes en Concordia no están segmentados por profesión, clase, arquetipo u otro sistema rígido de clasificación. Se basan en Rasgos, que son breves descripciones.
-
 ## Rasgos
 
-Los Rasgos tienen tres posibles niveles que representan su intensidad, grado de relevancia y rareza.
+En Concordia, los personajes no se encasillan en profesiones, clases, arquetipos u otros sistemas rígidos de clasificación. En su lugar, se basan en Rasgos, que son breves descripciones de lo que distingue a cada personaje.
 
-* **Corriente (1D6):** representa una característica secundaria del personaje, y que no se sale de lo que se considera normal en la población.
-* **Notable (2D6):** el Rasgo tiene un papel central para el personaje. Si el Rasgo es una habilidad, será el resultado de una cantidad importante de tiempo y recursos invertidos, y se podrá considerar al personaje un experto o profesional. Si es una característica física o de personalidad, será una llamativa y difícil de disimular.
-* **Extraordinario (3D6):** este Rasgo condiciona de manera absoluta la vida del personaje y le hace destacar por encima de casi todo el mundo.
+Para entenderlo mejor, imagina que alguien te pide que describas a un amigo o incluso a ti mismo en tan solo cuatro frases. Cada una de esas frases sería un Rasgo, una característica clave que define al personaje de manera general y concisa.
+
+Los Rasgos tienen tres posibles niveles que representan su relevancia, rareza e intensidad.
+
+* **Corriente (1D6):** representa una característica secundaria del personaje que no representa nada excepcional. Es parte de su identidad, pero no destaca especialmente.
+* **Notable (2D6):** el Rasgo tiene un papel central para el personaje. Este ha invertido mucho tiempo, esfuerzo o recursos en desarrollarlo y es fundamental para su historia y motivaciones.
+* **Extraordinario (3D6):** un Rasgo Extraordinario condiciona completamente la vida del personaje y lo hace destacar entre los demás. Es algo único y excepcional, lo que lo puede convertirlo en una figura reconocida en el mundo.
 
 Para empezar a dar forma a tu personaje, elige una distribución de Rasgos.
 
