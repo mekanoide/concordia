@@ -6,7 +6,7 @@ En Concordia, los personajes no se encasillan en profesiones, clases, arquetipos
 
 Para entenderlo mejor, imagina que alguien te pide que describas a un amigo o incluso a ti mismo en tan solo cuatro frases. Cada una de esas frases sería un Rasgo, una característica clave que define al personaje de manera general y concisa.
 
-
+### Niveles de los Rasgos
 
 Los Rasgos tienen tres posibles niveles que representan su relevancia, rareza e intensidad.
 
@@ -16,12 +16,14 @@ Un **Rasgo Notable** (2D6) tiene un papel central para el personaje. Este ha inv
 
 Un **Rasgo Extraordinario** (3D6) condiciona completamente la vida del personaje y lo hace destacar entre los demás. Es algo único y excepcional, lo que lo puede convertirlo en una figura reconocida en el mundo.
 
-
+### Distribución de los Rasgos
 
 Para empezar a dar forma a tu personaje, elige una distribución de Rasgos.
 
-* **Maestro de nada:** 4 Rasgos corrientes.
-* **Especialista:** 1 Rasgo notable y 2 corrientes.
+Un **Maestro de nada** representa un personaje polifacético pero que no destaca en nada. Tiene 4 Rasgos Corrientes.
+
+Un **Especialista** tiene 1 Rasgo notable y 2 corrientes.
+
 * **Todo a una carta:** 1 Rasgo extraordinario y 1 corriente.
 
 ## Dominios
