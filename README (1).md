@@ -20,11 +20,11 @@ Un **Rasgo Extraordinario** (3D6) condiciona completamente la vida del personaje
 
 Para empezar a dar forma a tu personaje, elige una distribución de Rasgos de entre las siguientes:
 
-El personaje puede ser un maestro de nada, un individuo polifacético que no destaca en nada en particular. Quizá ha explorado una variedad de actividades sin invertir un tiempo significativo en nada. Tiene **4 Rasgos Corrientes**.
+**Maestro de nada:** el personaje puede es un individuo polifacético que no destaca en nada en particular. Quizá ha explorado una variedad de actividades sin invertir un tiempo significativo en nada. Tiene **4 Rasgos Corrientes**.
 
-El personaje puede ser un especialista, que se ha destacado en un campo o característica específicos. Tienes **1 Rasgo Notable y 2 Corrientes**.
+**Especialista:** el personaje se ha destacado en un campo o característica específicos. Tienes **1 Rasgo Notable y 2 Corrientes**.
 
-Finalmente, el personaje puede jugárselo todo a una carta, poniendo casi todo su enfoque en una característica excepcional. Elige **1 Rasgo Extraordinario y 1 Rasgo Corriente**.
+**Unidimensional:** finalmente, el personaje puede jugárselo todo a una carta, poniendo casi todo su enfoque en una característica excepcional. Elige **1 Rasgo Extraordinario y 1 Rasgo Corriente**.
 
 ## Dominios
 
@@ -46,11 +46,13 @@ Los Dominios también constituyen la resistencia del personaje a diferentes fuen
 
 Los Dominios tienen tres posibles niveles: bajo (1D), medio (2D) y alto (3D). Representan dónde se encuentran en relación a la media humana.
 
-| Tipo de personaje | Distribución de los niveles                                |
-| ----------------- | ---------------------------------------------------------- |
-| **Equilibrado**   | 4 a nivel medio                                            |
-| **Inclinado**     | <p>1 a nivel alto<br>2 a nivel medio<br>1 a nivel bajo</p> |
-| **Extremo**       | <p>2 a nivel alto<br>2 a nivel bajo</p>                    |
+Las distribuciones de Dominios posibles son:
+
+**Personaje equilibrado:** el personaje no destaca ni por arriba ni por abajo en ningún área. Tiene los **4 Dominios a nivel medio**.&#x20;
+
+**Personaje con inclinaciones:** el personaje es bueno en un ámbito en particular y flojea en otro. Posee **1 Dominio a nivel alto, 2 a nivel medio y 1 bajo**.
+
+**Personaje extremo:** este personaje no está en la media de nada. Es un personaje con fortalezas notables y debilidades pronunciadas. Tiene **2 Dominios a nivel alto y 2 Dominios a nivel bajo**.
 
 ## Posesiones
 
