@@ -18,32 +18,33 @@ Un **Rasgo Extraordinario** (3D6) condiciona completamente la vida del personaje
 
 ### Distribución de los Rasgos
 
-Para empezar a dar forma a tu personaje, elige una distribución de Rasgos.
+Para empezar a dar forma a tu personaje, elige una distribución de Rasgos de entre las siguientes:
 
-Un **Maestro de nada** representa un personaje polifacético pero que no destaca en nada. Tiene 4 Rasgos Corrientes.
+El personaje puede ser un maestro de nada, un individuo polifacético que no destaca en nada en particular. Quizá ha explorado una variedad de actividades sin invertir un tiempo significativo en nada. Tiene **4 Rasgos Corrientes**.
 
-Un **Especialista** tiene 1 Rasgo notable y 2 corrientes.
+El personaje puede ser un especialista, que se ha destacado en un campo o característica específicos. Tienes **1 Rasgo Notable y 2 Corrientes**.
 
-* **Todo a una carta:** 1 Rasgo extraordinario y 1 corriente.
+Finalmente, el personaje puede jugárselo todo a una carta, poniendo casi todo su enfoque en una característica excepcional. Elige **1 Rasgo Extraordinario y 1 Rasgo Corriente**.
 
 ## Dominios
 
-Existen cuatro Dominios, que representan **las aptitudes generales del personaje**. Los Dominios intervienen en todas las tiradas de dados del juego.
+Los Dominios representan las aptitudes generales de un personaje en cuatro ámbitos. Los Dominios se utilizan en todas las tiradas de dados del juego. Los Dominios son:
 
-| Dominio      | Uso                                                                                                                                                                                                                                                  |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cuerpo**   | Tanto la capacidad física como el control del personaje sobre su propio cuerpo. Se utiliza en acciones relacionadas con la fuerza, resistencia, agilidad, reflejos, elasticidad, coordinación, combate cuerpo a cuerpo, actividades deportivas, etc. |
-| **Mente**    | Se usa para cualquier actividad relacionada con inteligencia, creatividad, memoria, voluntad, sangre fría, intuición.                                                                                                                                |
-| **Entorno**  | Representa la conexión del personaje con el mundo que le rodea y se usa para toda acción relacionada con percepción, orientación, sigilo, comprensión de mecanismos y sistemas, precisión, pulso, puntería, equilibrio y destreza manual.            |
-| **Sociedad** | Todo lo que supone relacionarse con otros personajes depende de este mio. Convencer, seducir, mentir y detectar mentiras, intimidar, negociar o empatizar.                                                                                           |
+**Cuerpo:** representa las habilidades físicas y la destreza del personaje. Incluye aspectos como la fuerza, la agilidad, la resistencia y el combate cuerpo a cuerpo.
+
+**Mente:** refleja la capacidad mental y el intelecto del personaje. Incluye habilidades cognitivas como el razonamiento, la lógica, la memoria y la resolución de problemas, pero también la voluntad y la sangre fría.
+
+**Entorno:** se relaciona con la interacción del personaje con el entorno que lo rodea. Engloba capacidades como la percepción, la supervivencia, la exploración, la puntería y el manejo de herramientas o tecnología.
+
+**Sociedad:** representa las habilidades sociales y emocionales del personaje. Incluye aspectos como la persuasión, la negociación, la empatía y la capacidad de liderazgo.
+
+Cada uno de estos Dominios influye en las acciones y desafíos a los que se enfrenta el personaje, y determinan la base de cada tirada de dados. La combinación de estos Dominios con los Rasgos define las fortalezas y debilidades generales del personaje.
 
 Los Dominios también constituyen la resistencia del personaje a diferentes fuentes de tensión o daño. Por ejemplo, un personaje que fracasa estrepitosamente en un intento de negociación, recibirá tensión en su Dominio **Sociedad**. Con mucha tensión acumulada, podría llegar a verse seriamente impedido para realizar cualquier otra acción en esta área.
 
-### **Niveles de los Dominios**
+### **Distribución de los Dominios**
 
 Los Dominios tienen tres posibles niveles: bajo (1D), medio (2D) y alto (3D). Representan dónde se encuentran en relación a la media humana.
-
-### **Distribución de los Dominios**
 
 | Tipo de personaje | Distribución de los niveles                                |
 | ----------------- | ---------------------------------------------------------- |
