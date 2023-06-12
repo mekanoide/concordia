@@ -1,5 +1,19 @@
 # Cómo jugar
 
+El juego es una conversación entre el director y los jugadores. El director describe el mundo del juego, así como las escenas en las que los personajes se encontrarán. Los jugadores, por su parte, dan vida a sus personajes y describen cómo actuarán para resolver las situaciones planteadas.
+
+## Narración y resolución de escenas sin dados
+
+En muchas ocasiones, las escenas en Concordia no requieren tiradas de dados para resolverse. Si no hay incertidumbre, peligro inminente o la escena tiene escasa relevancia para la historia, todo puede ser resuelto de manera narrativa. En este caso, los jugadores y el director colaboran para desarrollar la escena, con atención a cómo los Rasgos de los personajes pueden influir en la situación.
+
+## Tiradas de dados
+
+Cuando una escena contiene&#x20;
+
+## Desenlace de una escena: éxito y fracaso
+
+Cuando los personajes tienen éxito en una escena, el resultado se alinea con sus objetivos. La situación se resuelve favorablemente y la historia progresa en la dirección deseada por los jugadores y el director. Sin embargo, cuando los personajes fracasan en una escena, el director tiene la libertad de decidir cómo se desarrolla la situación. El fracaso no tiene que implicar necesariamente un perjuicio para los jugadores, pero sí significa que pierden el control sobre la narración.
+
 ## Secuencia de juego
 
 La conversación entre director y jugadores sigue habitualmente esta secuencia:
@@ -13,7 +27,7 @@ La conversación entre director y jugadores sigue habitualmente esta secuencia:
 
 ## Tirada de dados
 
-El jugador tira tantos dados de 6 caras como la suma de Rasgo, Dominio y Estados implicados. Cada resultado de 5 o 6 cuenta como un éxito. Con un éxito, el personaje logra su objetivo. Con éxitos adicionales, el objetivo se consigue de manera más contundente. Si el jugador no logra ningún éxito, el personaje o grupo no logran su objetivo.
+Todas las tiradas de dados en Concordia siguen la misma mecánica. El jugador tira tantos dados de 6 caras como la suma de Rasgo, Dominio y Estados implicados. Cada resultado de 5 o 6 cuenta como un éxito. Con un solo éxito, el personaje logra su objetivo. Con éxitos adicionales, el objetivo se consigue de manera más contundente, más refinada o con beneficios adicionales. Si el jugador no logra ningún éxito, el personaje o grupo no logran su objetivo.
 
 {% hint style="info" %}
 Tanto director como jugadores pueden estar acostumbrados a otro tipo de juegos de rol en los que es normal que los jugadores inicien sus acciones declarando acciones asociadas a habilidades o atributos concretos. En Concordia, sin embargo, tratamos de que la tirada de dados sea una forma de decidir si los jugadores logran sus objetivos en la escena narrada, pero nunca una acción en sí misma.

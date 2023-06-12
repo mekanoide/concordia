@@ -56,6 +56,6 @@ Las distribuciones de Dominios posibles son:
 
 ## Posesiones
 
-En Concordia no hay un inventario exhaustivo de posesiones que los personajes tengan que adquirir de forma explícita. En su lugar, se asume que cada personaje tiene una serie de posesiones típicas en función de su concepto y Rasgos.
+En Concordia no hay un inventario exhaustivo de posesiones que los personajes tengan que adquirir de forma explícita. En su lugar, se asume que cada personaje tiene una serie de posesiones típicas en función de su concepto, Rasgos y el mundo donde se ambienta el juego.
 
-La idea es que, como jugador, no tengas que preocuparte por cada pequeño objeto o artículo que tu personaje pueda tener en propiedad. En cambio, especifica solo aquellas posesiones o equipamiento inusuales o relevantes para la trama acordadas con el Director.&#x20;
+La idea es que, como jugador, no tengas que preocuparte por cada pequeño objeto o artículo que tu personaje pueda tener en propiedad. En cambio, especifica solo aquellas posesiones o equipamiento inusuales o relevantes para la trama acordadas con el Director.
