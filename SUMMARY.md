@@ -6,7 +6,5 @@
 * [Creación de personajes](<README (1).md>)
 * [Cómo jugar](como-jugar/como-jugar.md)
 * [Dificultad, ventajas y actitud](como-jugar/dificultad-ventajas-y-actitud.md)
-
-***
-
-* [Enfrentamientos](enfrentamientos.md)
+* [Enfrentamientos](sistema-de-juego/enfrentamientos.md)
+* [Daño](sistema-de-juego/dano.md)
