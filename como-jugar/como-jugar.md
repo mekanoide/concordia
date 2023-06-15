@@ -8,46 +8,22 @@ En muchas ocasiones, las escenas en Concordia no requieren tiradas de dados para
 
 ## Tiradas de dados
 
-Cuando una escena contiene&#x20;
-
-## Desenlace de una escena: éxito y fracaso
-
-Cuando los personajes tienen éxito en una escena, el resultado se alinea con sus objetivos. La situación se resuelve favorablemente y la historia progresa en la dirección deseada por los jugadores y el director. Sin embargo, cuando los personajes fracasan en una escena, el director tiene la libertad de decidir cómo se desarrolla la situación. El fracaso no tiene que implicar necesariamente un perjuicio para los jugadores, pero sí significa que pierden el control sobre la narración.
-
-## Secuencia de juego
-
-La conversación entre director y jugadores sigue habitualmente esta secuencia:
-
-1. **Descripción de la escena:** el director describe una escena, abierta a la reacción de los jugadores.
-2. **Reacción de los jugadores:** los jugadores describen sus objetivos, cómo pretenden lograrlos, qué Rasgos y/o Estados pueden ayudarles y deciden la actitud que llevarán.
-3. **Dificultad y otras circunstancias:** el director explica la dificultad y riesgos que la acción de los jugadores conlleva, se tienen en cuenta las ventajas como los estados negativos.
-4. **Desenlace de la escena:** la escena puede resolverse de forma narrativa o tirando dados.
-   1. Si la escena no tiene incertidumbre ni riesgo, no hace falta tirar dados. El director describe el desenlace basándose en los anteriores pasos.
-   2. Si por el contrario, la escena tiene un desenlace incierto o conlleva peligro, se tiran dados.
-
-## Tirada de dados
-
-Todas las tiradas de dados en Concordia siguen la misma mecánica. El jugador tira tantos dados de 6 caras como la suma de Rasgo, Dominio y Estados implicados. Cada resultado de 5 o 6 cuenta como un éxito. Con un solo éxito, el personaje logra su objetivo. Con éxitos adicionales, el objetivo se consigue de manera más contundente, más refinada o con beneficios adicionales. Si el jugador no logra ningún éxito, el personaje o grupo no logran su objetivo.
-
-{% hint style="info" %}
-Tanto director como jugadores pueden estar acostumbrados a otro tipo de juegos de rol en los que es normal que los jugadores inicien sus acciones declarando acciones asociadas a habilidades o atributos concretos. En Concordia, sin embargo, tratamos de que la tirada de dados sea una forma de decidir si los jugadores logran sus objetivos en la escena narrada, pero nunca una acción en sí misma.
-{% endhint %}
+Cuando una escena es relevante para la narración y además tiene incertidumbre o riesgo, se suele resolver tirando dados.\
+\
+Todas las tiradas de dados en Concordia siguen la misma mecánica. El jugador tira tantos dados de 6 caras como la suma del Dominio implicado más los posibles Rasgos y Estados que se puedan aplicar. **Cada resultado de 5 o 6 cuenta como un éxito**. Con un solo éxito, el personaje o personajes logran su objetivo. Con éxitos adicionales, el objetivo se consigue de manera más contundente, más refinada o con beneficios adicionales. Si el jugador no logra ningún éxito, el personaje o grupo no logran su objetivo.
 
 ## Dado de sucesos
 
-Uno de los dados (puede ser uno de diferente color, o el último de la lista en una aplicación, o un dado que se tira por separado) es el dado de sucesos. Funciona como los demás dados (es decir, cuenta para calcular el número de éxitos), pero tiene estas reglas adicionales:
+En cada tirada de dados normal en Concordia, uno de los dados lanzados se designa como el Dado de Sucesos. Puede ser un dado de diferente color, lanzarse por separado o ser el último de la lista si se utiliza una aplicación. Funciona de manera similar a los demás dados, marcando un éxito si se obtiene un resultado de 5 o 6. Sin embargo, se aplican dos reglas adicionales.
 
-* **1 es un REVÉS**, que puede tomar la forma de:
-  * **Daño:** el PJ recibe todo el daño potencial de la escena (daño de un cuchillo, daño social al quedar en ridículo, daño mental en una situación traumática…).
-  * **Giro de guión:** la escena desemboca en una situación de peligro inesperada.
-  * **Sacrificio:** un Recurso o un Estado se pierde, rompe, agota, es robado…
-* **6 es una OPORTUNIDAD:**
-  * **Daño:** el PJ puede infligir daño como si tuviese un éxito más.
-  * **Giro de guión:** ocurre algo inesperado en la escena que beneficia al PJ o grupo.
-  * **Ganancia:** el PJ recibe un Estado o Recurso que no estaba buscando; una pieza de equipo, información, dinero, reputación, o cualquier otra cosa que no entraba dentro de su objetivo.
+### Revés
 
-Estos efectos añadidos son independientes de que la tirada tenga éxito o no.
+Si se obtiene un resultado de 1 en este dado, ocurre un Revés, un evento negativo e inesperado, y esto es independiente de que la tirada tenga éxito o no. El Revés puede manifestarse de tres maneras: el personaje **recibe todo el daño potencial** de una escena, bien ocurre un giro de guión y **la escena desemboca en una situación de riesgo inesperada**, o se da la **pérdida de un objeto o Estado positivo**.
 
+### Oportunidad
+
+Por el contrario, si el dado de sucesos da un resultado de 6, además de ser un éxito implica que algo inesperadamente positivo tiene lugar. Esto puede conllevar que el personaje **cause daño como si hubiese obtenido un éxito adicional**, puede tener lugar un **giro de guión positivo** que beneficie al personaje o grupo y **que les facilite la siguiente escena**, o que se produzca la **adquisición de un objeto, un estado positivo o información inesperada.**\
+\
 El jugador puede sacrificar un éxito para eliminar un Revés.
 
 {% hint style="info" %}
@@ -56,12 +32,10 @@ Ejemplo: Fulanito se enzarza en un tiroteo para defender una posición defensiva
 El jugador puede, en lugar de hacerse el héroe, optar por anular ese revés sacrificando su éxito. A efectos narrativos, el personaje se da por vencido y se retira de la posición de manera controlada. Solo recibe un rasguño en el proceso.
 {% endhint %}
 
-## Después del desenlace
+## El desenlace de una escena
 
-No importa que el desenlace sea positivo o negativo, la situación final de una escena no puede ser la misma que la del principio y por lo tanto no se pueden repetir las mismas acciones ya intentadas. Esta es una manera de hacer avanzar la historia y de evitar que los jugadores se atasquen tratando de hacer lo mismo una y otra vez.
+El progreso de la narración es prioritario en Concordia y se busca evitar situaciones de bloqueo o repetición. Con este objetivo, existen dos reglas a tener en cuenta para la resolución de una escena:
 
-{% hint style="info" %}
-En algunos tipos de situaciones (buscar, abrir una cerradura, desactivar una trampa...), los jugadores pueden verse tentados de repetir la misma acción una y otra vez hasta lograr su meta. En Concordia esto no debería ser posible, ya que la tirada (individual o en grupo) representa cómo ha ido el intento en general, sin entrar a detallar si se ha tratado de hacer una vez o veinte.
-{% endhint %}
-
-Cuando el desenlace
+Salvo en situaciones excepcionales, **no se puede repetir una acción**, ya sea por el mismo personaje o por otros. Recuerda que las acciones en Concordia no representan actos individuales sino la búsqueda general de un objetivo (el que Alfred falle una tirada intentando forzar una cerradura no significa que haya hecho un solo intento, este resultado significa que quizá ha probado quince veces sin éxito, hasta que se ha dado por vencido o ha perdido la oportunidad). De esta manera se fuerza la exploración de nuevas opciones y enfoques.\
+\
+Relacionado con lo anterior, **el final de una escena no puede ser idéntico a su inicio**. Aunque los personajes hayan fracasado en sus objetivos, la historia debe avanzar y las condiciones para la siguiente escena tienen que ser distintas. Un **éxito significa que la historia avanza en línea con las intenciones de los jugadores**, mientras que el **fallo implica que la narrativa toma un rumbo fuera de su control**. Esta pérdida de control no tiene por qué ser siempre negativa.

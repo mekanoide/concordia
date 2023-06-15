@@ -1,31 +1,23 @@
 # Dificultad, ventajas y actitud
 
-Durante el transcurso de la aventura, los jugadores se enfrentan a algunas situaciones más complicadas que otras. Para expresar esto, el director puede hacer que los jugadores tiren uno o dos dados menos dependiendo de si la situación es difícil o muy difícil.
+En Concordia, las mecánicas de dificultad, ventajas y actitud influyen en las probabilidades de éxito durante una escena, añaden cierto grado de estrategia al juego y animan a los jugadores a adaptarse a las circunstancias y explorar diferentes enfoques para resolver las escenas.
 
+## Dificultad
 
+Cuando una escena presenta desafíos adicionales, el director puede requerir que los personajes tiren un dado menos.
 
-Cuando una escena se considera fácil, debería resolverse de manera narrativa, sin tiradas.
+Si la escena es muy sencilla, recomendamos resolverla de manera narrativa sin necesidad de tiradas de dados.
 
 ## Ventajas
 
-Cuando un jugador explica o interpreta especialmente bien los actos de su personaje, plantea una estrategia inspirada, el director puede decidir conceder un dado más para la resolución de la escena.
+Cuando un jugador explica o interpreta especialmente bien los actos de su personaje, o plantea una estrategia inspirada, el director puede conceder un dado adicional para la resolución de la escena.
 
 ## Actitud
 
-Los personajes pueden elegir entre tres actitudes diferentes para enfrentarse a una escena.
+Los personajes pueden elegir entre tres actitudes diferentes al enfrentar una escena.
 
-### Actitud equilibrada
+**Actitud equilibrada:** el personaje busca alcanzar su objetivo manteniendo el control de la situación y considerando posibles imprevistos y consecuencias. Esta es la actitud por defecto, no hace falta declararla ni tiene efectos adicionales en el juego.
 
-El personaje intenta lograr su objetivo manteniendo el control de la situación y prestando atención a los posibles imprevistos y consecuencias. Esta es la actitud por defecto, no hay que declararla ni tiene ningún efecto de juego añadido.
+**Actitud decidida:** el personaje persigue su objetivo de manera resuelta y sin mucha reflexión, sin prestar atención a los riesgos. El jugador lanza un dado adicional, pero este es un segundo dado de sucesos.
 
-### Actitud decidida
-
-El personaje busca su objetivo de forma resuelta y poco meditada, sin prestar atención a los riesgos.
-
-El jugador Lanza un dado más, pero este es un dado de efectos adicional.
-
-### Actitud conservadora
-
-El personaje busca su objetivo con mucha cautela, poniendo especial atención en evitar consecuencias negativas.
-
-El jugador lanza un dado menos, pero no hay dado de sucesos.
+**Actitud conservadora:** el personaje aborda su objetivo con cautela, evitando posibles consecuencias negativas. El jugador tira un dado menos, pero no se utiliza el dado de sucesos.

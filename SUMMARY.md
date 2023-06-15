@@ -9,4 +9,4 @@
 
 ***
 
-* [Enfrentamientos y daño](enfrentamientos-y-dano.md)
+* [Enfrentamientos](enfrentamientos.md)
