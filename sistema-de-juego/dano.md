@@ -20,8 +20,8 @@ Si se recibe daño sin ningún espacio disponible, el personaje queda fuera de j
 
 Cada escena en Concordia tiene un nivel de riesgo asociado, que determina el posible daño que los personajes pueden recibir en caso de un fallo o un Revés. Hay tres niveles de riesgo: bajo, medio y alto.
 
-**Riesgo bajo:** si un personaje falla en su tirada, no sufre daño. Sin embargo, puede recibir un punto de daño en caso de experimentar un Revés durante la escena.
+**Riesgo bajo:** si un personaje falla en su tirada, no sufre daño. Sin embargo, puede recibir una Secuela leve en caso de experimentar un Revés.
 
-**Riesgo medio:** en caso de fallo, el personaje recibe 1 punto de daño. Además, si se enfrenta a un Revés, puede sufrir un punto adicional de daño.
+**Riesgo medio:** en caso de fallo, el personaje recibe una Secuela leve. Además, si se enfrenta a un Revés, puede sufrir un punto adicional de daño.
 
-**Riesgo alto:** un fallo implica 1 punto de daño para el personaje. Si se produce un Revés, el daño aumenta en 2 puntos adicionales.
+**Riesgo alto:** un fallo implica una Secuela leve. Si se produce un Revés, el personaje está expuesto a una Secuela grave. Cuando se dan las dos circunstancias,&#x20;
