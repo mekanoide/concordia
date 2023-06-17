@@ -18,7 +18,7 @@ En cada tirada de dados normal en Concordia, uno de los dados lanzados se design
 
 ### Revés
 
-Si se obtiene un resultado de 1 en este dado, ocurre un Revés, un evento negativo e inesperado, y esto es independiente de que la tirada tenga éxito o no. El Revés puede manifestarse de tres maneras: el personaje **recibe todo el daño potencial** de una escena, bien ocurre un giro de guión y **la escena desemboca en una situación de riesgo inesperada**, o se da la **pérdida de un objeto o Estado positivo**.
+Si se obtiene un resultado de 1 en este dado, ocurre un Revés, un evento negativo e inesperado, y esto es independiente de que la tirada tenga éxito o no. El Revés puede manifestarse de tres maneras: el personaje **recibe todo el daño potencial** de una escena, bien ocurre un giro de guión y **la escena desemboca en una situación de riesgo inesperada**, o se da la **pérdida de una posesión o una Ventaja**.
 
 ### Oportunidad
 
