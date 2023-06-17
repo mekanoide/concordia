@@ -2,9 +2,13 @@
 
 El juego es una conversación entre el director y los jugadores. El director describe el mundo del juego, así como las escenas en las que los personajes se encontrarán. Los jugadores, por su parte, dan vida a sus personajes y describen cómo actuarán para resolver las situaciones planteadas.
 
-## Narración y resolución de escenas sin dados
+## Escena y reacción
 
-En muchas ocasiones, las escenas en Concordia no requieren tiradas de dados para resolverse. Si no hay incertidumbre, peligro inminente o la escena tiene escasa relevancia para la historia, todo puede ser resuelto de manera narrativa. En este caso, los jugadores y el director colaboran para desarrollar la escena, con atención a cómo los Rasgos de los personajes pueden influir en la situación.
+El director describe la escena dejando un final abierto a la reacción de los jugadores. Los jugadores explican sus objetivos y cómo planean lograrlos. Se acuerda el nivel de riesgo y dificultad de la escena, y el director finalmente decide si la resolución será narrativa o a través de tiradas de dados.
+
+## Resolución de escenas sin dados
+
+Si no hay incertidumbre, riesgo o la escena tiene escasa relevancia para la historia, todo puede ser resuelto de manera narrativa. En este caso, los jugadores y el director colaboran para desarrollar la escena, con atención a cómo los Rasgos de los personajes pueden influir en la situación.
 
 ## Tiradas de dados
 
