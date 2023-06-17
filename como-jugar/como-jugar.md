@@ -2,7 +2,7 @@
 
 El juego es una conversación entre el director y los jugadores. El director describe el mundo del juego, así como las escenas en las que los personajes se encontrarán. Los jugadores, por su parte, dan vida a sus personajes y describen cómo actuarán para resolver las situaciones planteadas.
 
-## Escena y reacción
+## Escena y narración
 
 El director describe la escena dejando un final abierto a la reacción de los jugadores. Los jugadores explican sus objetivos y cómo planean lograrlos. Se acuerda el nivel de riesgo y dificultad de la escena, y el director finalmente decide si la resolución será narrativa o a través de tiradas de dados.
 
