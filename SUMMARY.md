@@ -8,3 +8,7 @@
 * [Dificultad, ventajas y actitud](como-jugar/dificultad-ventajas-y-actitud.md)
 * [Enfrentamientos](sistema-de-juego/enfrentamientos.md)
 * [Daño](sistema-de-juego/dano.md)
+
+***
+
+* [Suerte](suerte.md)
