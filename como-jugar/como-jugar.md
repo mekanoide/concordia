@@ -15,6 +15,10 @@ En la fase de **reacción**, los jugadores describen sus objetivos y cómo inten
 En el **desenlace** se resuelve la escena ya sea con o sin tiradas de dados. El desenlace de una Escena lleva a los jugadores en la dirección que se marcaron en sus objetivos si tienen éxito, o en una dirección fuera de su control sin fallan. En cualquiera de los casos, el desenlace de una Escena debe desembocar en una escena diferente, no puede terminar en exactamente la misma posición del inicio.
 
 {% hint style="info" %}
+Imaginemos que un personaje trata de forzar una puerta cerrada. La tirada de dados que decide el desenlace de esta Escena no representa un intento aislado de abrirla, sino que engloba todos los intentos que el personaje realiza hasta que finalmente lo logra o decide darse por vencido, o se le acaba el tiempo de que disponía para hacerlo, o aparece alguien en el pasillo, o está claro que no puede mantener la discreción por más tiempo.
+{% endhint %}
+
+{% hint style="info" %}
 ¿Qué es eso de entidad narrativa? Imaginemos que los jugadores quieren hacer un largo viaje en velero. La primera escena es una descripción de su recorrido a lo largo de miles de kilómetros que les lleva varias semanas. Una tirada de dados determina si todo ese recorrido ha ido bien o si por el contrario ha habido algún tipo de incidente. La siguiente escena es una tempestad en la que los personajes jugadores tendrán que hacerse con el control del barco. En la siguiente escena, el barco golpea una roca y se verán obligados a efectuar reparaciones de emergencia para que no se hunda. En la última escena del ejemplo, el velero logra, después de un par de días complicados, llegar a puerto donde los personajes efectuarán reparaciones más duraderas. Una escena ha durado semanas, otra unos minutos, la siguiente horas y la última dos días.&#x20;
 {% endhint %}
 
@@ -38,13 +42,13 @@ En cada tirada de dados normal en Concordia, uno de los dados lanzados se design
 
 ### Revés
 
-Si se obtiene un resultado de 1 en este dado, ocurre un Revés, un evento negativo e inesperado, y esto es independiente de que la tirada tenga éxito o no. El Revés puede manifestarse de tres maneras: el personaje **recibe todo el daño potencial** de una escena, bien ocurre un giro de guión y **la escena desemboca en una situación de riesgo inesperada**, o se da la **pérdida de una posesión o una Ventaja**.
+Si se obtiene un resultado de 1 en este dado, ocurre un Revés, un evento negativo e inesperado, y esto es independiente de que la tirada tenga éxito o no. El Revés puede manifestarse de tres maneras: el personaje **recibe todo el daño potencial** de la Escena, bien ocurre un giro de guión y **la escena desemboca en una situación de riesgo inesperada**, o se produce la **pérdida de una posesión o una Ventaja**.
+
+El jugador puede sacrificar un éxito para eliminar un Revés.
 
 ### Oportunidad
 
-Por el contrario, si el dado de sucesos da un resultado de 6, además de ser un éxito implica que algo inesperadamente positivo tiene lugar. Esto puede conllevar que el personaje **cause daño como si hubiese obtenido un éxito adicional**, puede tener lugar un **giro de guión positivo** que beneficie al personaje o grupo y **que les facilite la siguiente escena**, o que se produzca la **adquisición de un objeto, un estado positivo o información inesperada.**\
-\
-El jugador puede sacrificar un éxito para eliminar un Revés.
+Por el contrario, si el dado de sucesos da un resultado de 6, además de ser un éxito implica que algo inesperadamente positivo tiene lugar. Esto puede conllevar que el personaje **cause daño como si hubiese obtenido un éxito adicional**, puede tener lugar un **giro de guión positivo** que beneficie al personaje o grupo y **que les facilite la siguiente escena**, o que se produzca la **adquisición de un objeto, una Ventaja o información inesperada.**
 
 {% hint style="info" %}
 Ejemplo: Fulanito se enzarza en un tiroteo para defender una posición defensiva, tira 4 dados y obtiene 2, 4, 5 y un 1 en el dado de sucesos. Al obtener un éxito (el 5), habría logrado su objetivo de mantener la posición, pero el 1 en el dado de sucesos se podría convertir en un balazo recibido que lo dejaría maltrecho.
@@ -59,8 +63,4 @@ El progreso de la narración es prioritario en Concordia y se busca evitar situa
 Salvo en situaciones excepcionales, **no se puede repetir una acción**, ya sea por el mismo personaje o por otros. Recuerda que las acciones en Concordia no representan actos individuales sino la búsqueda general de un objetivo. De esta manera se fuerza la exploración de nuevas opciones y enfoques, y se evitan las situaciones de estancamiento.\
 \
 Relacionado con lo anterior, **el final de una escena no puede ser idéntico a su inicio**. Aunque los personajes hayan fracasado en sus objetivos, la historia debe avanzar y las condiciones para la siguiente escena tienen que ser distintas. Un **éxito significa que la historia avanza en línea con las intenciones de los jugadores**, mientras que el **fallo implica que la narrativa toma un rumbo fuera de su control**. Esta pérdida de control no tiene por qué ser siempre negativa.
-
-{% hint style="info" %}
-Imaginemos que un personaje trata de forzar una puerta cerrada. La tirada de dados que decide el desenlace de la Escena no representa un intento aislado de abrirla, sino que engloba todos los intentos que el personaje realiza hasta que finalmente lo logra o decide darse por vencido, o se le acaba el tiempo de que disponía para hacerlo, o aparece alguien en el pasillo, o está claro que no puede mantener la discreción por más tiempo.
-{% endhint %}
 
