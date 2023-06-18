@@ -1,4 +1,4 @@
-# Dificultad, ventajas y actitud
+# Riesgo, dificultad, bonos y actitud
 
 En Concordia, las mecánicas de dificultad, ventajas y actitud influyen en las probabilidades de éxito durante una escena, añaden cierto grado de estrategia al juego y animan a los jugadores a adaptarse a las circunstancias y explorar diferentes enfoques para resolver las escenas.
 
@@ -8,7 +8,7 @@ Cuando una escena presenta desafíos adicionales, el director puede requerir que
 
 Si la escena es muy sencilla, recomendamos resolverla de manera narrativa sin necesidad de tiradas de dados.
 
-## Ventajas
+## Bonos
 
 Cuando un jugador explica o interpreta especialmente bien los actos de su personaje, o plantea una estrategia inspirada, el director puede conceder un dado adicional para la resolución de la escena.
 
