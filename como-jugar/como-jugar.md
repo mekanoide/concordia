@@ -1,22 +1,36 @@
 # Cómo jugar
 
-El juego es una conversación entre el director y los jugadores. El director describe el mundo del juego, así como las escenas en las que los personajes se encontrarán. Los jugadores, por su parte, dan vida a sus personajes y describen cómo actuarán para resolver las situaciones planteadas.
+El juego es una conversación entre el director y los jugadores. El director describe el mundo del juego, mientras que los jugadores dan vida a sus personajes y narran cómo reaccionan ante las situaciones presentadas. En Concordia no se busca simular la realidad, sino crear una narración de ficción.
 
-## Escena y narración
+## Escenas
 
-La unidad fundamental de la narración en Concordia es la Escena. Las escenas tienen una duración variable, desde segundos hasta meses o años, y no representan acciones individuales sino situaciones más complejas con peso narrativo. Por este motivo, una característica clave de la Escena es que su desenlace nunca puede ser la misma situación que a su inicio. Siempre tiene que haber avance en alguna dirección, un cambio en la situación. Esto evita la repetición y el estancamiento y fomenta el progreso constante de la historia.
+La unidad fundamental de la narración en Concordia es la Escena. Las Escenas no representan acciones individuales, ni segmentos de tiempo, sino situaciones con entidad narrativa. Las Escenas, por tanto, pueden durar desde unos segundos hasta lapsos de tiempo de años.
 
-El director describe la escena dejando un final abierto a la reacción de los jugadores. Los jugadores explican sus objetivos y cómo planean lograrlos. Se acuerda la dificultad y nivel de riesgo de la escena, y el director finalmente decide si la resolución será narrativa o a través de tiradas de dados.
+Cada Escena consta de tres partes: planteamiento, reacción y desenlace.\
+\
+Durante el **planteamiento**, el director narra el punto de partida de la Escena y la deja abierta para la acción de los jugadores.\
+\
+En la fase de **reacción**, los jugadores describen sus objetivos y cómo intentarán lograrlos.\
+\
+En el **desenlace** se resuelve la escena ya sea con o sin tiradas de dados. El desenlace de una Escena lleva a los jugadores en la dirección que se marcaron en sus objetivos si tienen éxito, o en una dirección fuera de su control sin fallan. En cualquiera de los casos, el desenlace de una Escena debe desembocar en una escena diferente, no puede terminar en exactamente la misma posición del inicio.
 
-## Resolución de escenas sin dados
+{% hint style="info" %}
+¿Qué es eso de entidad narrativa? Imaginemos que los jugadores quieren hacer un largo viaje en velero. La primera escena es una descripción de su recorrido a lo largo de miles de kilómetros que les lleva varias semanas. Una tirada de dados determina si todo ese recorrido ha ido bien o si por el contrario ha habido algún tipo de incidente. La siguiente escena es una tempestad en la que los personajes jugadores tendrán que hacerse con el control del barco. En la siguiente escena, el barco golpea una roca y se verán obligados a efectuar reparaciones de emergencia para que no se hunda. En la última escena del ejemplo, el velero logra, después de un par de días complicados, llegar a puerto donde los personajes efectuarán reparaciones más duraderas. Una escena ha durado semanas, otra unos minutos, la siguiente horas y la última dos días.&#x20;
+{% endhint %}
 
-Si no hay incertidumbre, riesgo o la escena tiene escasa relevancia para la historia, todo puede ser resuelto de manera narrativa. En este caso, los jugadores y el director colaboran para desarrollar la escena, con atención a cómo los Rasgos de los personajes pueden influir en la situación.
+## Desenlace narrativo
 
-## Tiradas de dados
+Si no hay incertidumbre, riesgo o la escena tiene escasa relevancia para la historia, todo puede ser resuelto de manera narrativa. En este caso, los jugadores y el director colaboran para desarrollar la escena, echando mano de los Rasgos de los personajes si estos pueden influir en la situación.
+
+## Desenlace con dados
 
 Cuando una escena es relevante para la narración y además tiene incertidumbre o riesgo, se suele resolver tirando dados.\
 \
-Todas las tiradas de dados en Concordia siguen la misma mecánica. El jugador tira tantos dados de 6 caras como la suma del Dominio implicado más los posibles Rasgos y Estados que se puedan aplicar. **Cada resultado de 5 o 6 cuenta como un éxito**. Con un solo éxito, el personaje o personajes logran su objetivo. Con éxitos adicionales, el objetivo se consigue de manera más contundente, más refinada o con beneficios adicionales. Si el jugador no logra ningún éxito, el personaje o grupo no logran su objetivo.
+Todas las tiradas de dados en Concordia siguen la misma mecánica. El jugador tira tantos dados de 6 caras como la suma del Dominio implicado más los posibles Rasgos y demás modificadores que se puedan aplicar. **Cada resultado de 5 o 6 cuenta como un éxito**.
+
+Con un solo éxito, el personaje o personajes logran su objetivo. Con éxitos adicionales, el objetivo se consigue de manera más contundente, más refinada o con beneficios adicionales.
+
+Si el jugador no logra ningún éxito, el personaje o grupo no logran su objetivo.
 
 ## Dado de sucesos
 
@@ -38,10 +52,15 @@ Ejemplo: Fulanito se enzarza en un tiroteo para defender una posición defensiva
 El jugador puede, en lugar de hacerse el héroe, optar por anular ese revés sacrificando su éxito. A efectos narrativos, el personaje se da por vencido y se retira de la posición de manera controlada. Solo recibe un rasguño en el proceso.
 {% endhint %}
 
-## El desenlace de una escena
+## El desenlace de una Escena
 
 El progreso de la narración es prioritario en Concordia y se busca evitar situaciones de bloqueo o repetición. Con este objetivo, existen dos reglas a tener en cuenta para la resolución de una escena:
 
-Salvo en situaciones excepcionales, **no se puede repetir una acción**, ya sea por el mismo personaje o por otros. Recuerda que las acciones en Concordia no representan actos individuales sino la búsqueda general de un objetivo (el que Alfred falle una tirada intentando forzar una cerradura no significa que haya hecho un solo intento, este resultado significa que quizá ha probado quince veces sin éxito, hasta que se ha dado por vencido o ha perdido la oportunidad). De esta manera se fuerza la exploración de nuevas opciones y enfoques.\
+Salvo en situaciones excepcionales, **no se puede repetir una acción**, ya sea por el mismo personaje o por otros. Recuerda que las acciones en Concordia no representan actos individuales sino la búsqueda general de un objetivo. De esta manera se fuerza la exploración de nuevas opciones y enfoques, y se evitan las situaciones de estancamiento.\
 \
 Relacionado con lo anterior, **el final de una escena no puede ser idéntico a su inicio**. Aunque los personajes hayan fracasado en sus objetivos, la historia debe avanzar y las condiciones para la siguiente escena tienen que ser distintas. Un **éxito significa que la historia avanza en línea con las intenciones de los jugadores**, mientras que el **fallo implica que la narrativa toma un rumbo fuera de su control**. Esta pérdida de control no tiene por qué ser siempre negativa.
+
+{% hint style="info" %}
+Imaginemos que un personaje trata de forzar una puerta cerrada. La tirada de dados que decide el desenlace de la Escena no representa un intento aislado de abrirla, sino que engloba todos los intentos que el personaje realiza hasta que finalmente lo logra o decide darse por vencido, o se le acaba el tiempo de que disponía para hacerlo, o aparece alguien en el pasillo, o está claro que no puede mantener la discreción por más tiempo.
+{% endhint %}
+
