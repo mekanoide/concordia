@@ -12,7 +12,7 @@ Hay tres niveles de riesgo:\
 
 **Medio:** en una Escena de riesgo medio, los personajes pueden recibir daño importante con muy mala suerte, o sufrir una desviación importante de sus objetivos en caso de fracaso.
 
-**Alto:** en el caso de una Escena de alto riesgo, el rumbo de la narración puede irse al traste en caso de fracaso, e incluso la continuidad de alguno de los personajes.
+**Alto:** en una Escena de alto riesgo, el rumbo de la narración puede irse al traste en caso de fracaso, e incluso la continuidad de alguno de los personajes.
 
 ## Dificultad
 
