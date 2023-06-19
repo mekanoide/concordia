@@ -1,12 +1,28 @@
 # Riesgo, dificultad, bonos y actitud
 
-En Concordia, las mecánicas de dificultad, ventajas y actitud influyen en las probabilidades de éxito durante una escena, añaden cierto grado de estrategia al juego y animan a los jugadores a adaptarse a las circunstancias y explorar diferentes enfoques para resolver las escenas.
+En Concordia existen mecánicas de riesgo, dificultad, ventajas y actitud que influyen en las probabilidades de éxito en una Escena, añaden cierto grado de estrategia al juego y animan a los jugadores a adaptarse a las circunstancias y explorar diferentes enfoques para resolver las escenas.
+
+## Riesgo
+
+Toda Escena que requiere de tirada de dados tiene un nivel de riesgo asociado. El riesgo determina la gravedad de las consecuencias en caso de fallo.\
+\
+Hay tres niveles de riesgo:\
+\
+**Bajo:** en una Escena de bajo riesgo los personajes se exponen a consecuencias molestas en caso de fallo, pero que en ningún caso hacen peligrar su continuidad en la narración.
+
+**Medio:** en una Escena de riesgo medio, los personajes pueden recibir daño importante con muy mala suerte, o sufrir una desviación importante de sus objetivos en caso de fracaso.
+
+**Alto:** en el caso de una Escena de alto riesgo, el rumbo de la narración puede irse al traste en caso de fracaso, e incluso la continuidad de alguno de los personajes.
 
 ## Dificultad
 
 Cuando una escena presenta desafíos adicionales, el director puede requerir que los personajes tiren un dado menos.
 
 Si la escena es muy sencilla, recomendamos resolverla de manera narrativa sin necesidad de tiradas de dados.
+
+{% hint style="info" %}
+¿Riesgo y dificultad te producen confusión? Imagina un duelo con pistolas entre dos personajes. Las reglas son las mismas, quien impacta primero gana el duelo. En uno de los duelos usan pistolas de agua, en otro balas de goma, y en el tercero munición real. La dificultad, es decir, la probabilidad de vencer el duelo, es la misma para las tres versiones, pero el riesgo es muchísimo más elevado para el último caso que para el primero.
+{% endhint %}
 
 ## Bonos
 
