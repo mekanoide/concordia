@@ -58,18 +58,26 @@ En cada tirada de dados normal en Concordia, uno de los dados lanzados se design
 
 ### Revés
 
-Si se obtiene un resultado de 1 en este dado, ocurre un Revés, un evento negativo e inesperado, y esto es independiente de que la tirada tenga éxito o no. El Revés puede manifestarse de tres maneras: el personaje **recibe todo el daño potencial** de la Escena, bien ocurre un giro de guión y **la escena desemboca en una situación de riesgo inesperada**, o se produce la **pérdida de una posesión o una Ventaja**.
+Si se obtiene un resultado de 1 en este dado, ocurre un Revés, un evento negativo e inesperado, y esto es independiente de que la tirada tenga éxito o no. El Revés puede manifestarse de tres maneras: el personaje **recibe todo el daño potencial** de la Escena, bien ocurre un giro de guión y **la escena desemboca en una situación de riesgo inesperada**, o se produce la **pérdida de una posesión o una ventaja**.
 
 El jugador puede sacrificar un éxito para eliminar un Revés.
 
 ### Oportunidad
 
-Por el contrario, si el dado de sucesos da un resultado de 6, además de ser un éxito implica que algo inesperadamente positivo tiene lugar. Esto puede conllevar que el personaje **cause daño como si hubiese obtenido un éxito adicional**, puede tener lugar un **giro de guión positivo** que beneficie al personaje o grupo y **que les facilite la siguiente escena**, o que se produzca la **adquisición de un objeto, una Ventaja o información inesperada.**
+Por el contrario, si el dado de sucesos da un resultado de 6, además de ser un éxito implica que algo inesperadamente positivo tiene lugar. Esto puede conllevar que el personaje **cause daño como si hubiese obtenido un éxito adicional**, puede tener lugar un **giro de guión positivo** que beneficie al personaje o grupo y **que les facilite la siguiente escena**, o que se produzca la **adquisición de un objeto, una ventaja o información inesperada.**
 
 {% hint style="info" %}
 Ejemplo: Fulanito se enzarza en un tiroteo para defender una posición defensiva, tira 4 dados y obtiene 2, 4, 5 y un 1 en el dado de sucesos. Al obtener un éxito (el 5), habría logrado su objetivo de mantener la posición, pero el 1 en el dado de sucesos se podría convertir en un balazo recibido que lo dejaría maltrecho.
 
 El jugador puede, en lugar de hacerse el héroe, optar por anular ese revés sacrificando su éxito. A efectos narrativos, el personaje se da por vencido y se retira de la posición de manera controlada. Solo recibe un rasguño en el proceso.
+{% endhint %}
+
+## Ventajas
+
+Una ventaja es parecida a un rasgo, salvo que solo puede añadir un dado a una tirada y tiene un carácter temporal. Las ventajas pueden ganarse por una oportunidad o pueden ser concedidas por el director por algún otro motivo. Una ventaja puede usarse una vez o unas pocas, según su naturaleza y el criterio del director.
+
+{% hint style="info" %}
+Como resultado de una situación resuelta especialmente bien, Joanna, el personaje de Eva, gana la Ventaja _Un policía me debe un favor_. Eva decide utilizar esta Ventaja para ayudar a su personaje en una escena en la que tiene que encontrar información sobre cierto criminal. El policía decide que su favor está saldado y Eva tiene que borrar la Ventaja.
 {% endhint %}
 
 ## El desenlace de una Escena
@@ -83,4 +91,3 @@ Relacionado con lo anterior, **el final de una escena no puede ser idéntico a s
 {% hint style="info" %}
 Vamos a seguir con el ejemplo del intento de allanamiento. Si el jugador falla en su intento de abrir la puerta, el desenlace de esta escena no se puede limitar a negar el éxito, manteniendo las mismas condiciones que al comienzo. Nada impediría en ese caso que tanto este jugador como los demás decidiesen insistir en la misma acción machaconamente hasta salirse con la suya. Negar la posibilidad de repetir simplemente porque está en las reglas mata completamente la inmersión, por ello la escena debería resolverse de manera orgánica dejando claro que esa vía, la de forzar la puerta, no es posible en este momento.
 {% endhint %}
-
