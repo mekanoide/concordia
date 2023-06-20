@@ -30,15 +30,29 @@ En Concordia, el daño que los personajes pueden recibir es de tres tipos: físi
 
 ### Secuelas
 
-El daño en Concordia tiene carácter narrativo y se representa mediante Secuelas. **Una Secuela consiste en una pequeña descripción y un nivel de gravedad**.
+El daño en Concordia tiene carácter narrativo y se representa mediante secuelas. Parecido a un rasgo, **una secuela consiste en una pequeña descripción y un nivel de gravedad**.
 
-Existen cuatro espacios para Secuelas de cada tipo: **dos leves, una grave y una muy grave**. Cuando un personaje recibe daño y no hay espacio disponible en su nivel de gravedad correspondiente, se convierte en una Secuela de gravedad superior.
+Cuando se recibe daño, la cantidad recibida equivale a un nivel de Secuela:\
+\
+**Secuela leve:** 1 punto de daño.
 
-Si se recibe daño sin ningún espacio disponible, el personaje queda fuera de juego, ya sea permanentemente o de manera recuperable.
+**Secuela grave:** equivale a 2 puntos de daño recibidos.
 
+**Secuela muy grave:** 3 puntos de daño recibidos.
 
+Existen cuatro espacios para secuelas: **dos leves, una grave y una muy grave**. Cuando un personaje recibe daño y no hay espacio disponible en el nivel de gravedad que correspondería, se convierte en una secuela de gravedad superior.
+
+Si se recibe daño sin ningún espacio disponible, el personaje queda fuera de juego, ya sea permanentemente o hasta que .
 
 ## Cómo se adquiere daño
+
+De manera general, cada vez que se falla una tirada se recibe un punto de daño. Si este no se anula, se convertirá en una Secuela leve.
+
+Cuando la tirada contiene un Revés, este puede tornarse en daño.
+
+Riesgo bajo: un fallo en una escena de escaso riesgo&#x20;
+
+
 
 Cada escena en Concordia tiene un nivel de riesgo asociado, que determina el posible daño que los personajes pueden recibir en caso de un fallo o un Revés. Hay tres niveles de riesgo: bajo, medio y alto.
 
