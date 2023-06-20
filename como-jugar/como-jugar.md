@@ -6,18 +6,18 @@ Antes de meternos a explicar las reglas, recuerda que una de las más importante
 
 ## Escenas
 
-La unidad fundamental de la narración en Concordia es la Escena. Las Escenas no representan acciones individuales, ni segmentos de tiempo, sino situaciones con entidad narrativa. Las Escenas, por tanto, pueden durar desde unos segundos hasta lapsos de tiempo de años.
+La unidad fundamental de la narración en Concordia es la escena. Las escenas no representan acciones individuales, ni segmentos de tiempo, sino situaciones con entidad narrativa, es decir, en las que se dan unas circunstancias concretas. Las escenas, por tanto, pueden durar desde unos segundos hasta lapsos de tiempo de años.
 
-Cada Escena consta de tres partes: planteamiento, reacción y desenlace.\
+Cada escena consta de tres partes: planteamiento, reacción y desenlace.\
 \
-Durante el **planteamiento**, el director narra el punto de partida de la Escena, describe la situación en que los personajes se encuentran, y la deja abierta para la reacción de los jugadores.\
+Durante el **planteamiento**, el director narra el punto de partida de la escena, describe la situación en que los personajes se encuentran, y la deja abierta para la reacción de los jugadores.\
 \
-En la fase de **reacción**, los jugadores describen sus objetivos para resolver la Escena y cómo intentarán lograrlos.\
+En la fase de **reacción**, los jugadores describen sus objetivos para resolver la escena y cómo intentarán lograrlos.\
 \
-En el **desenlace** se resuelve la escena ya sea con o sin tiradas de dados. El desenlace de una Escena lleva a los jugadores en la dirección que se marcaron en sus objetivos si tienen éxito, o en una dirección fuera de su control sin fallan. En cualquiera de los casos, el desenlace de una Escena debe desembocar en una escena diferente, no puede terminar en exactamente la misma posición del inicio.
+En el **desenlace** se resuelve la escena ya sea con o sin tiradas de dados. **El desenlace lleva a los jugadores en la dirección de sus objetivos si tienen éxito, o en una fuera de su control sin fallan**. Esto último no siempre tiene por qué ser negativo. En cualquiera de los casos, el desenlace de una escena debe llevar a una nueva con un punto de partida diferente, no puede terminar en exactamente la misma posición del inicio.
 
 {% hint style="info" %}
-Imaginemos que un personaje trata de forzar una puerta cerrada. La tirada de dados que decide el desenlace de esta Escena no representa un intento aislado de abrirla, sino que engloba todos los intentos que el personaje realiza hasta que finalmente lo logra o decide darse por vencido, o se le acaba el tiempo de que disponía para hacerlo, o aparece alguien en el pasillo, o está claro que no puede mantener la discreción por más tiempo.
+Imaginemos que un personaje trata de forzar una puerta cerrada. La tirada de dados que decide el desenlace de esta Escena no representa un intento aislado de abrirla, sino que engloba todos los intentos que el personaje realiza hasta que finalmente lo logra o decide darse por vencido, o se le acaba el tiempo de que disponía para hacerlo, o aparece alguien en el pasillo, o está claro que no puede mantener la discreción por más tiempo. El desenlace de esta escena no puede limitarse a un fallo manteniendo las mismas condiciones que al comienzo, porque nada impediría en ese caso que tanto este jugador como los demás decidiesen insistir en la misma acción machaconamente hasta salirse con la suya.
 {% endhint %}
 
 {% hint style="info" %}
@@ -26,7 +26,7 @@ Imaginemos que un personaje trata de forzar una puerta cerrada. La tirada de dad
 
 ## Desenlace narrativo
 
-Si no hay incertidumbre, riesgo o la escena tiene escasa relevancia para la historia, todo puede ser resuelto de manera narrativa. En este caso, los jugadores y el director colaboran para desarrollar la escena, echando mano de los Rasgos de los personajes si estos pueden influir en la situación.
+Si no hay incertidumbre, riesgo o la escena tiene escasa relevancia para la historia, todo puede ser resuelto de manera narrativa, sin tirar dados. En este caso, los jugadores y el director colaboran para desarrollar la escena, echando mano de los Rasgos de los personajes si estos pueden influir en la situación.
 
 ## Desenlace con dados
 
