@@ -14,10 +14,10 @@ Durante el **planteamiento**, el director narra el punto de partida de la escena
 \
 En la fase de **reacción**, los jugadores describen sus objetivos para resolver la escena y cómo intentarán lograrlos.\
 \
-En el **desenlace** se resuelve la escena ya sea con o sin tiradas de dados. **El desenlace lleva a los jugadores en la dirección de sus objetivos si tienen éxito, o en una fuera de su control sin fallan**. Esto último no siempre tiene por qué ser negativo. En cualquiera de los casos, el desenlace de una escena debe llevar a una nueva con un punto de partida diferente, no puede terminar en exactamente la misma posición del inicio.
+En el **desenlace** se resuelve la escena ya sea con o sin tiradas de dados. **El desenlace lleva a los jugadores en la dirección de sus objetivos si tienen éxito, o en una fuera de su control sin fallan**. Esto último no siempre tiene por qué ser negativo.
 
 {% hint style="info" %}
-Imaginemos que un personaje trata de forzar una puerta cerrada. La tirada de dados que decide el desenlace de esta Escena no representa un intento aislado de abrirla, sino que engloba todos los intentos que el personaje realiza hasta que finalmente lo logra o decide darse por vencido, o se le acaba el tiempo de que disponía para hacerlo, o aparece alguien en el pasillo, o está claro que no puede mantener la discreción por más tiempo. El desenlace de esta escena no puede limitarse a un fallo manteniendo las mismas condiciones que al comienzo, porque nada impediría en ese caso que tanto este jugador como los demás decidiesen insistir en la misma acción machaconamente hasta salirse con la suya.
+Imaginemos que un personaje trata de forzar una puerta cerrada. La tirada de dados que decide el desenlace de esta Escena no representa un intento aislado de abrirla, sino que engloba todos los intentos que el personaje realiza hasta que finalmente lo logra o decide darse por vencido, o se le acaba el tiempo de que disponía para hacerlo, o aparece alguien en el pasillo, o está claro que no puede mantener la discreción por más tiempo.
 {% endhint %}
 
 {% hint style="info" %}
@@ -37,6 +37,20 @@ Todas las tiradas de dados en Concordia siguen la misma mecánica. El jugador ti
 Con un solo éxito, el personaje o personajes logran su objetivo. Con éxitos adicionales, el objetivo se consigue de manera más contundente, más refinada o con beneficios adicionales.
 
 Si el jugador no logra ningún éxito, el personaje o grupo no logran su objetivo.
+
+### Qué dominio usar
+
+Recuerda que cada dominio se utiliza en diferentes tipos de situación.
+
+**Cuerpo:** se aplica donde la fuerza, agilidad, equilibrio, flexibilidad, resistencia o salud general son fundamentales.
+
+**Mente:** se emplea en casos que requieren agilidad mental, memoria, imaginación, concentración, fuerza de voluntad, inteligencia o capacidad de cálculo.
+
+**Entorno:** Se utiliza en situaciones en las que la habilidad manual, puntería, orientación, alerta, agudeza visual, o interacción con interfaces o maquinaria son esenciales.
+
+**Sociedad:** Se aplica en cualquier escena donde la capacidad para caer bien, tener labia, seducir, liderar o tener autoridad sean cruciales.
+
+En ocasiones dos o más dominios pueden parecer igual de aptos. Es el jugador quien decide cuál utilizar.
 
 ## Dado de sucesos
 
@@ -65,4 +79,8 @@ El progreso de la narración es prioritario en Concordia y se busca evitar situa
 Salvo en situaciones excepcionales, **no se puede repetir una acción**, ya sea por el mismo personaje o por otros. Recuerda que las acciones en Concordia no representan actos individuales sino la búsqueda general de un objetivo. De esta manera se fuerza la exploración de nuevas opciones y enfoques, y se evitan las situaciones de estancamiento.\
 \
 Relacionado con lo anterior, **el final de una escena no puede ser idéntico a su inicio**. Aunque los personajes hayan fracasado en sus objetivos, la historia debe avanzar y las condiciones para la siguiente escena tienen que ser distintas. Un **éxito significa que la historia avanza en línea con las intenciones de los jugadores**, mientras que el **fallo implica que la narrativa toma un rumbo fuera de su control**. Esta pérdida de control no tiene por qué ser siempre negativa.
+
+{% hint style="info" %}
+Vamos a seguir con el ejemplo del intento de allanamiento. Si el jugador falla en su intento de abrir la puerta, el desenlace de esta escena no se puede limitar a negar el éxito, manteniendo las mismas condiciones que al comienzo. Nada impediría en ese caso que tanto este jugador como los demás decidiesen insistir en la misma acción machaconamente hasta salirse con la suya. Negar la posibilidad de repetir simplemente porque está en las reglas mata completamente la inmersión, por ello la escena debería resolverse de manera orgánica dejando claro que esa vía, la de forzar la puerta, no es posible en este momento.
+{% endhint %}
 
