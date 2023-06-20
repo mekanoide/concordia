@@ -18,10 +18,10 @@ Hay tres niveles de riesgo:\
 
 Cuando una escena presenta desafíos adicionales, el director puede requerir que los personajes tiren un dado menos.
 
-Si la escena es muy sencilla, recomendamos resolverla de manera narrativa sin necesidad de tiradas de dados.
+Por el contrario, si la escena es muy sencilla, recomendamos resolverla de manera narrativa sin necesidad de tiradas de dados.
 
 {% hint style="info" %}
-¿Riesgo y dificultad te producen confusión? Imagina un duelo con pistolas entre dos personajes. Las reglas son las mismas, quien impacta primero gana el duelo. En uno de los duelos usan pistolas de agua, en otro balas de goma, y en el tercero munición real. La dificultad, es decir, la probabilidad de vencer el duelo, es la misma para las tres versiones, pero el riesgo es muchísimo más elevado para el último caso que para el primero.
+¿Riesgo y dificultad te producen confusión? Imagina un duelo con pistolas entre dos personajes. Las reglas son las mismas, quien impacta primero gana el duelo. En uno de los duelos usan pistolas de agua, en otro balas de goma, y en el tercero munición real. La dificultad, es decir, la probabilidad de vencer el duelo, es la misma para las tres versiones, pero la gravedad de las consecuencias es muy diferente para cada caso.
 {% endhint %}
 
 ## Bonos
