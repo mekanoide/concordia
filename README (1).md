@@ -2,9 +2,15 @@
 
 ## Rasgos
 
-En Concordia, los personajes no se encasillan en profesiones, clases, arquetipos u otros sistemas rígidos de clasificación. En su lugar, se basan en Rasgos, que son breves descripciones de lo que distingue a cada personaje.
+En Concordia no existen habilidades, clases o profesiones. No hay categorías rígidas. Cada personaje se define por unos pocos Rasgos, que son breves descripciones que reflejan su biografía, carrera, aficiones, personalidad o características físicas. Un Rasgo es una frase corta que define lo que caracteriza a ese personaje.
 
 Para entenderlo mejor, imagina que alguien te pide que describas a un amigo o incluso a ti mismo en tan solo cuatro frases. Cada una de esas frases sería un Rasgo, una característica clave que define al personaje de manera general y concisa.
+
+{% hint style="info" %}
+Imaginemos que tenemos la idea para un personaje nervioso y rápido que se crió en una flota pirata errante y que resulta encantador. Podríamos convertir este concepto en tres Rasgos: _Nervioso y alerta como un ratón_, _Se crió en el mar, en una flota pirata errante_ y _Irresistiblemente encantador_.\
+\
+El primer rasgo puede servirle para situaciones en las que prima la velocidad de respuesta, estar alerta o la agilidad. El segundo puede ser de gran utilidad en un entorno marino, también puede ayudar en combates así como brindar un conocimiento de los bajos fondos y el mercado negro. El tercero será muy útil en situaciones sociales de todo tipo, seducción, negociaciones, e incluso para tirar de contactos.
+{% endhint %}
 
 ### Niveles de los Rasgos
 
