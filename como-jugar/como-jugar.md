@@ -2,6 +2,8 @@
 
 El juego es una conversación entre el director y los jugadores. El director describe el mundo del juego, mientras que los jugadores dan vida a sus personajes y narran cómo reaccionan ante las situaciones presentadas. En Concordia no se busca simular la realidad, sino crear una narración de ficción.
 
+Una de las normas fundamentales para mantener la flexibilidad y agilidad del juego es ignorar o modificar cualquier mecánica o regla específica que obstaculice la fluidez del juego, carezca de lógica o resulte poco satisfactoria en una situación concreta. Es importante aplicar este principio con cuidado y transparencia para evitar que los jugadores perciban la toma de decisiones como arbitraria o injusta. ¡Pero recuerda que las reglas están aquí para servir a la historia y no al revés!
+
 ## Escenas
 
 La unidad fundamental de la narración en Concordia es la Escena. Las Escenas no representan acciones individuales, ni segmentos de tiempo, sino situaciones con entidad narrativa. Las Escenas, por tanto, pueden durar desde unos segundos hasta lapsos de tiempo de años.
