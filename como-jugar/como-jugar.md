@@ -10,9 +10,9 @@ La unidad fundamental de la narración en Concordia es la Escena. Las Escenas no
 
 Cada Escena consta de tres partes: planteamiento, reacción y desenlace.\
 \
-Durante el **planteamiento**, el director narra el punto de partida de la Escena y la deja abierta para la acción de los jugadores.\
+Durante el **planteamiento**, el director narra el punto de partida de la Escena, describe la situación en que los personajes se encuentran, y la deja abierta para la reacción de los jugadores.\
 \
-En la fase de **reacción**, los jugadores describen sus objetivos y cómo intentarán lograrlos.\
+En la fase de **reacción**, los jugadores describen sus objetivos para resolver la Escena y cómo intentarán lograrlos.\
 \
 En el **desenlace** se resuelve la escena ya sea con o sin tiradas de dados. El desenlace de una Escena lleva a los jugadores en la dirección que se marcaron en sus objetivos si tienen éxito, o en una dirección fuera de su control sin fallan. En cualquiera de los casos, el desenlace de una Escena debe desembocar en una escena diferente, no puede terminar en exactamente la misma posición del inicio.
 
