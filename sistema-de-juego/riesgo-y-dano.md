@@ -2,6 +2,16 @@
 
 Durante el juego, los personajes se enfrentan a situaciones donde las cosas no siempre salen como desean. Las consecuencias de esto pueden ir desde un pequeño contratiempo hasta la incapacitación del personaje.
 
+**Hay tres tipos de daño que el personaje puede acumular: físico, mental y social**.
+
+Aunque lo más normal es que una escena donde se use el dominio cuerpo provoque daño físico, el dominio mente daño mental y sociedad daño social, esto no siempre es así. Por ejemplo, un personaje puede recibir daño social después de fallar intentando ejecutar alguna proeza física, por el ridículo que ha hecho.
+
+## ¿Cómo se recibe daño?
+
+Cuando se falla una tirada, se recibe daño. Según el nivel de riesgo de la escena\
+\
+Dependiendo del nivel de riesgo de la escena, este es el daño recibido:
+
 ## Riesgo
 
 Cada escena que requiere tirada de dados tiene un nivel de riesgo que determina la gravedad de las consecuencias en caso de fallo. En la mayoría de ocasiones, el nivel de riesgo no necesita ser explicitado ya que la propia descripción de la escena lo hace evidente.\
@@ -61,3 +71,4 @@ Cada escena en Concordia tiene un nivel de riesgo asociado, que determina el pos
 **Riesgo medio:** en caso de fallo, el personaje recibe una Secuela leve. Además, si se enfrenta a un Revés, puede sufrir un punto adicional de daño.
 
 **Riesgo alto:** un fallo implica una Secuela leve. Si se produce un Revés, el personaje está expuesto a una Secuela grave. Cuando se dan las dos circunstancias,&#x20;
+
