@@ -38,6 +38,8 @@ Con un solo éxito, el personaje o personajes logran su objetivo. Con éxitos ad
 
 Si el jugador no logra ningún éxito, el personaje o grupo no logran su objetivo.
 
+En Concordia el director nunca tira dados, salvo que necesite escoger a un personaje aleatorio.
+
 ### Qué dominio usar
 
 Recuerda que cada dominio se utiliza en diferentes tipos de situación.
@@ -74,7 +76,7 @@ El jugador puede, en lugar de hacerse el héroe, optar por anular ese revés sac
 
 ## Ventajas
 
-Una ventaja es parecida a un rasgo, salvo que solo puede añadir un dado a una tirada y tiene un carácter temporal. Las ventajas pueden ganarse por una oportunidad o pueden ser concedidas por el director por algún otro motivo. Una ventaja puede usarse una vez o unas pocas, según su naturaleza y el criterio del director.
+Una ventaja es parecida a un rasgo, salvo que solo puede añadir un dado a una tirada y tiene un carácter temporal. Las ventajas pueden ganarse con una oportunidad o pueden ser concedidas por el director por algún otro motivo. Una ventaja puede usarse una vez o unas pocas, según su naturaleza y el criterio del director.
 
 {% hint style="info" %}
 Como resultado de una situación resuelta especialmente bien, Joanna, el personaje de Eva, gana la Ventaja _Un policía me debe un favor_. Eva decide utilizar esta Ventaja para ayudar a su personaje en una escena en la que tiene que encontrar información sobre cierto criminal. El policía decide que su favor está saldado y Eva tiene que borrar la Ventaja.
@@ -84,10 +86,10 @@ Como resultado de una situación resuelta especialmente bien, Joanna, el persona
 
 El progreso de la narración es prioritario en Concordia y se busca evitar situaciones de bloqueo o repetición. Con este objetivo, existen dos reglas a tener en cuenta para la resolución de una escena:
 
-Salvo en situaciones excepcionales, **no se puede repetir una acción**, ya sea por el mismo personaje o por otros. Recuerda que las acciones en Concordia no representan actos individuales sino la búsqueda general de un objetivo. De esta manera se fuerza la exploración de nuevas opciones y enfoques, y se evitan las situaciones de estancamiento.\
+Salvo en situaciones excepcionales, **no se puede repetir una acción**, ya sea por el mismo personaje o por otros. Recuerda que las acciones de los jugadores en Concordia no representan actos individuales sino todas las acciones necesarias para lograr un objetivo en una escena concreta. De esta manera se fuerza la exploración de nuevas opciones y enfoques, y se evitan las situaciones de estancamiento.\
 \
 Relacionado con lo anterior, **el final de una escena no puede ser idéntico a su inicio**. Aunque los personajes hayan fracasado en sus objetivos, la historia debe avanzar y las condiciones para la siguiente escena tienen que ser distintas. Un **éxito significa que la historia avanza en línea con las intenciones de los jugadores**, mientras que el **fallo implica que la narrativa toma un rumbo fuera de su control**. Esta pérdida de control no tiene por qué ser siempre negativa.
 
 {% hint style="info" %}
-Vamos a seguir con el ejemplo del intento de allanamiento. Si el jugador falla en su intento de abrir la puerta, el desenlace de esta escena no se puede limitar a negar el éxito, manteniendo las mismas condiciones que al comienzo. Nada impediría en ese caso que tanto este jugador como los demás decidiesen insistir en la misma acción machaconamente hasta salirse con la suya. Negar la posibilidad de repetir simplemente porque está en las reglas mata completamente la inmersión, por ello la escena debería resolverse de manera orgánica dejando claro que esa vía, la de forzar la puerta, no es posible en este momento.
+Vamos a seguir con el ejemplo del intento de allanamiento. Si el jugador falla en su intento de abrir la puerta, el desenlace de esta escena no se limita a negar el éxito manteniendo las mismas condiciones que al comienzo. Si ese fuese el caso, nada impediría que los jugadores decidiesen insistir en la misma acción machaconamente hasta salirse con la suya. No queremos matar la inmersión diciendo a los jugadores que simplemente no pueden repetir la acción porque lo pone en las reglas. Es por ello que la narración debería dejar claro que esa opción ya no está ahí. Bien han dedicado mucho tiempo sin ningún progreso y se han dado por vencidos, bien han llamado suficiente la atención y tienen que desaparecer de allí, bien se han dado cuenta de que sus herramientas no son apropiadas, o alguien ha aparecido en la escena y los ha confrontado.
 {% endhint %}
