@@ -6,12 +6,10 @@ En Concordia no existen clases, profesiones o arquetipos, tampoco listados de ha
 
 El rasgo es el elemento central que distingue a los personajes entre sí. Cada personaje se define por unos pocos rasgos, que son breves descripciones que reflejan su biografía, carrera, aficiones, personalidad o características físicas. Un rasgo es una frase corta que describe lo que caracteriza a ese personaje.
 
-Para entenderlo mejor, imagina que alguien te pide que describas a un amigo o incluso a ti mismo en tan solo cuatro frases. En Concordia, cada una de esas frases sería un rasgo, una característica clave que define al personaje de manera general y concisa.
-
 {% hint style="info" %}
-Tenemos la idea para un personaje inquieto y simpático que se crió en una flota pirata. Podríamos convertir este concepto en tres Rasgos: _Nervioso y alerta como una ardilla_, _Se crió en el océano Índico, en una flota pirata errante_ e _Adulador, irresistiblemente encantador_.\
+Para entenderlo mejor, imagina que alguien te pide que describas a un amigo o incluso a ti mismo en tan solo cuatro frases. En Concordia, cada una de esas frases sería un rasgo, una característica clave que define al personaje de manera general y concisa.\
 \
-El primer rasgo puede servirle para enfrentarse a situaciones en las que prima la velocidad de respuesta, estar alerta o la agilidad. El segundo puede ser de gran utilidad en un entorno marino, o en el área del mundo en que se crió, también puede ayudar en combates así como brindar un conocimiento de los bajos fondos y el mercado negro. El tercero será muy útil en situaciones sociales de todo tipo, seducción, negociaciones, e incluso para hacer contactos y acudir a ellos.
+Tenemos la idea para un personaje inquieto y simpático que se crió en una flota pirata. Podríamos convertir este concepto en tres Rasgos: _Nervioso y alerta como una ardilla_, _Se crió en el océano Índico, en una flota pirata errante_ e _Adulador, irresistiblemente encantador_. El primer rasgo puede servirle para enfrentarse a situaciones en las que prima la velocidad de respuesta, estar alerta o la agilidad. El segundo puede ser de gran utilidad en un entorno marino, o en el área del mundo en que se crió, también puede ayudar en combates así como brindar un conocimiento de los bajos fondos y el mercado negro. El tercero será muy útil en situaciones sociales de todo tipo, seducción, negociaciones, e incluso para hacer contactos y acudir a ellos.
 {% endhint %}
 
 ### Niveles de los rasgos
