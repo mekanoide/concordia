@@ -1,50 +1,30 @@
-# Riesgo y daño
+# Daño
 
-Durante el juego, los personajes se enfrentan a situaciones donde las cosas no siempre salen como desean. Las consecuencias de esto pueden ir desde un pequeño contratiempo hasta la incapacitación del personaje.
+Durante el juego, los personajes se enfrentan a situaciones peligrosas que pueden traerles consecuencias negativas. Esto es el daño.
 
-**Hay tres tipos de daño que el personaje puede acumular: físico, mental y social**.
+En Concordia, el daño no se limita a lo físico, puede afectar a diferentes aspectos del personaje como daño en la autoestima, inhibiciones sociales, .
 
-Aunque lo más normal es que una escena donde se use el dominio cuerpo provoque daño físico, el dominio mente daño mental y sociedad daño social, esto no siempre es así. Por ejemplo, un personaje puede recibir daño social después de fallar intentando ejecutar alguna proeza física, por el ridículo que ha hecho.
+El tipo de daño no está ligado a un dominio o situación.
 
-## ¿Cómo se recibe daño?
+{% hint style="info" %}
+Ejemplos de secuelas son una herida de bala, un brazo roto, agotamiento, hipotermia, ansiedad social, cojera por esguince, descoordinación, agujetas, baja autoestima, un problema en el habla, sordera,&#x20;
+{% endhint %}
 
-Cuando se falla una tirada, se recibe daño. Según el nivel de riesgo de la escena\
-\
-Dependiendo del nivel de riesgo de la escena, este es el daño recibido:
+{% hint style="info" %}
+Imaginemos que Morght trata de orientarse y liderar al grupo de personajes por un bosque y falla su tirada de entorno. El director puede decidir que se ha golpeado con una rama y se ha abierto una pequeña brecha en la cabeza. O puede considerar que esta confusión ha drenado su confianza, dañando su autoestima. O incluso que el escarnio sufrido por haber perdido al grupo le hace recuperar una tartamudez casi olvidada.
+{% endhint %}
 
 ## Riesgo
 
-Cada escena que requiere tirada de dados tiene un nivel de riesgo que determina la gravedad de las consecuencias en caso de fallo. En la mayoría de ocasiones, el nivel de riesgo no necesita ser explicitado ya que la propia descripción de la escena lo hace evidente.\
+Cada escena que se resuelve mediante tirada de dados tiene un nivel de riesgo que determina la gravedad de las consecuencias en caso de fallo. En la mayoría de ocasiones, el nivel de riesgo no necesita ser explicitado ya que la propia narración de la escena lo hace evidente.\
 \
 Existen tres niveles de riesgo:\
 \
-**Riesgo bajo:** en una escena de bajo riesgo los personajes se exponen a consecuencias molestas en caso de fallo, pero que no hacen peligrar su integridad ni les desvían excesivamente de su objetivo.
+**Riesgo limitado:** en una escena de riesgo limitado los personajes se exponen a consecuencias molestas en caso de fallo, pero que no hacen peligrar su integridad ni les desvían excesivamente de sus objetivos. Un fallo en una escena de riesgo limitado **conlleva 1 punto de daño**.
 
-**Riesgo medio:** en una escena de riesgo medio, los personajes pueden recibir daño severo en caso de fracaso.
+**Riesgo moderado:** en una escena de riesgo medio, los personajes pueden recibir daño severo en caso de fracaso.
 
 **Riesgo alto:** en una Escena de alto riesgo, el rumbo de la narración puede irse al traste en caso de fracaso, e incluso la continuidad de alguno de los personajes.
-
-{% hint style="info" %}
-El riesgo no está asociado solamente a escenas físicas o de combate. Un evento social, por ejemplo, tiene también un nivel de riesgo. Mientras que fallar el intento de caer bien a una camarera para conseguir un chupito gratis no tiene apenas consecuencias, hacerlo dando un discurso ante la cúpula del gobierno de Madagascar puede suponer un impacto grave tanto en los planes de los jugadores como en la reputación del personaje.
-{% endhint %}
-
-## Tipos de daño
-
-En Concordia, el daño que los personajes pueden recibir es de tres tipos: físico, mental y social.
-
-**Daño físico:** este tipo de daño puede surgir en enfrentamientos físicos o situaciones que implican la posibilidad de lesiones como por ejemplo peleas a puñetazos, caídas desde alturas, contacto con sustancias dañinas o exposición a un medio hostil.
-
-**Daño mental:** el daño mental puede ser consecuencia de situaciones estresantes, traumáticas o aterradoras que afectan la estabilidad emocional y mental de los personajes.
-
-**Daño social:** interacciones sociales negativas como difamación, traición, humillación o confrontaciones verbales intensas, pueden ocasionar daño en la reputación o las relaciones del personaje.
-
-### El daño no está exactamente asociado a su dominio
-
-Aunque es habitual que el daño en una escena donde interviene el dominio cuerpo vaya a daño físico, esto no tiene por qué ser siempre así. Un personaje puede estar intentando realizar una acrobacia, fallar y llevarse daño social por el ridículo hecho. A su vez, el dominio entorno no tiene un tipo de daño asociado. Dependiendo de la situación, este puede ser físico, mental o incluso social.
-
-{% hint style="info" %}
-Imaginemos que un personaje trata de orientarse por un bosque y falla su tirada de entorno. El daño que recibe podría ser físico si el director decide que en algún momento se ha golpeado con una rama. También podría ser mental si se considera que esta confusión ha drenado su confianza. O incluso social si el grupo con el que va lo somete a escarnio por haberlos perdido en medio del bosque.
-{% endhint %}
 
 ## Secuelas
 
