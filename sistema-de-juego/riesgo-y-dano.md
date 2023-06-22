@@ -2,16 +2,10 @@
 
 Durante el juego, los personajes se enfrentan a situaciones peligrosas que pueden traerles consecuencias negativas. Esto es el daño.
 
-En Concordia, el daño no se limita a lo físico, puede afectar a diferentes aspectos del personaje como daño en la autoestima, inhibiciones sociales, .
-
-El tipo de daño no está ligado a un dominio o situación.
+En Concordia, el daño no se limita a lo físico sino que puede afectar a muy diferentes aspectos del personaje.
 
 {% hint style="info" %}
-Ejemplos de secuelas son una herida de bala, un brazo roto, agotamiento, hipotermia, ansiedad social, cojera por esguince, descoordinación, agujetas, baja autoestima, un problema en el habla, sordera,&#x20;
-{% endhint %}
-
-{% hint style="info" %}
-Imaginemos que Morght trata de orientarse y liderar al grupo de personajes por un bosque y falla su tirada de entorno. El director puede decidir que se ha golpeado con una rama y se ha abierto una pequeña brecha en la cabeza. O puede considerar que esta confusión ha drenado su confianza, dañando su autoestima. O incluso que el escarnio sufrido por haber perdido al grupo le hace recuperar una tartamudez casi olvidada.
+Morght trata de orientarse y liderar al grupo de personajes por un bosque, pero falla su tirada de entorno. El director puede decidir que se ha golpeado con una rama y se ha abierto una pequeña brecha en la cabeza. O puede considerar que esta confusión ha drenado su confianza, dañando su autoestima. O incluso que el escarnio sufrido por haber perdido al grupo le hace recuperar una tartamudez casi olvidada.
 {% endhint %}
 
 ## Riesgo
@@ -33,6 +27,10 @@ El daño que el personaje recibe tiene carácter narrativo y se representa media
 Existen cuatro espacios para secuelas: **dos leves, una grave y una muy grave**. Cuando un personaje recibe una secuela y no hay espacio disponible en el nivel de gravedad que le correspondería, se convierte en una secuela de gravedad superior.
 
 Si se recibe una secuela y no queda ningún espacio disponible, el personaje queda fuera de juego, ya sea permanentemente o hasta que lo rehabiliten.
+
+{% hint style="info" %}
+Ejemplos de secuelas son una herida de bala, un brazo roto, agotamiento, hipotermia, ansiedad social, cojera por esguince, descoordinación, agujetas, baja autoestima, un problema en el habla, sordera, fiebre, desorientación.
+{% endhint %}
 
 ## Cómo se adquiere el daño
 
