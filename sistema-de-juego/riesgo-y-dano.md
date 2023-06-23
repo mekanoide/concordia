@@ -1,12 +1,12 @@
 # Daño
 
-Durante el juego, los personajes se enfrentan a situaciones peligrosas que pueden traerles consecuencias negativas. Esto es el daño.
-
-En Concordia, el daño no se limita a lo físico sino que puede afectar a muy diferentes aspectos del personaje.
+Durante el juego, los personajes se enfrentan a situaciones peligrosas que pueden traerles consecuencias negativas. En Concordia, daño se considera cualquier efecto negativo sobre un personaje. El daño, por tanto, no se limita a malestar físico, sino que puede manifestarse también como inseguridades, confusión, ansiedad social, falta de concentración, cansancio o un número ilimitado de diferentes efectos.
 
 {% hint style="info" %}
 Morght trata de orientarse y liderar al grupo de personajes por un bosque, pero falla su tirada de entorno. El director puede decidir que se ha golpeado con una rama y se ha abierto una pequeña brecha en la cabeza. O puede considerar que esta confusión ha drenado su confianza, dañando su autoestima. O incluso que el escarnio sufrido por haber perdido al grupo le hace recuperar una tartamudez casi olvidada.
 {% endhint %}
+
+Cuando un personaje falla una tirada en una escena de cierto riesgo
 
 ## Riesgo
 
