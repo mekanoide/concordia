@@ -1,26 +1,22 @@
 # Daño
 
-Durante el juego, los personajes a veces se exponen a situaciones que les pueden hacer sufrir consecuencias negativas. En Concordia, daño se considera cualquier efecto negativo sobre un personaje. Es decir, no se limita un impacto sobre la salud física, sino que puede manifestarse también como inseguridades, confusión, ansiedad social, falta de concentración, cansancio o un número ilimitado de diferentes efectos.\
-\
-Durante el juego, los personajes pueden exponerse a situaciones que les causen daño. En Concordia daño se entiende como cualquier efecto negativo sobre el personaje. El daño no se limita únicamente a la salud física, sino que puede manifestarse de diversas formas, como inseguridades, confusión, ansiedad social, desorientación, fiebre, entre otros.
+Durante el juego, los personajes se pueden exponer a situaciones peligrosas que les causen daño. En Concordia, daño se considera cualquier efecto negativo sobre un personaje. Es decir, no se limita un impacto sobre la salud física, sino que puede manifestarse también como inseguridad, confusión, ansiedad social, fiebre, cansancio o desorientación, entre otros.
 
 {% hint style="info" %}
 Morght trata de orientarse y liderar al grupo de personajes por un bosque, pero falla su tirada de entorno. El director puede decidir que se ha golpeado con una rama y se ha abierto una pequeña brecha en la cabeza. O puede considerar que esta confusión ha drenado su confianza, dañando su autoestima. O incluso que el escarnio sufrido por haber perdido al grupo le hace recuperar una tartamudez casi olvidada.
 {% endhint %}
 
-
-
-## Riesgo
-
-Cada escena que se resuelve mediante tirada de dados tiene un nivel de riesgo que determina la gravedad de las consecuencias en caso de fallo. En la mayoría de ocasiones, el nivel de riesgo no necesita ser explicitado ya que la propia narración de la escena lo hace evidente.\
+**Cada fallo en una tirada de dados es susceptible de causar daño a los personajes**, dependiendo de la naturaleza de la situación y su nivel de riesgo. Podemos establecer tres niveles de riesgo, que determinarán el daño recibido en caso de fallo.\
 \
-Existen tres niveles de riesgo:\
-\
-**Riesgo limitado:** en una escena de riesgo limitado los personajes se exponen a consecuencias molestas en caso de fallo, pero que no hacen peligrar su integridad ni les desvían excesivamente de sus objetivos. Un fallo en una escena de riesgo limitado **conlleva 1 punto de daño**.
+**Riesgo limitado:** en una escena de riesgo limitado los personajes se exponen a consecuencias molestas en caso de fallo, pero que no hacen peligrar su integridad ni la continuidad de la narración. Un fallo en una escena de riesgo limitado conlleva **1 punto de daño**.
 
-**Riesgo moderado:** en una escena de riesgo medio, los personajes pueden recibir daño severo en caso de fracaso.
+**Riesgo moderado:** en una escena de riesgo moderado, los personajes pueden encontrarse con consecuencias más significativas. Los daños pueden suponer un impacto grave en su bienestar, pero sin demasiado peligro para su propia existencia. Un fallo implica **2 puntos de daño**.
 
-**Riesgo alto:** en una Escena de alto riesgo, el rumbo de la narración puede irse al traste en caso de fracaso, e incluso la continuidad de alguno de los personajes.
+**Riesgo alto:** en una Escena de alto riesgo, las consecuencias de un fallo pueden ser catastróficas y cambiar notablemente el rumbo de la narración. La propia continuidad de los personajes en la narración puede estar en peligro. El fallo en una escena de alto riesgo supone **3 puntos de daño**.
+
+## Tolerancia
+
+Cuando un personaje recibe daño, este no provoca consecuencias negativas inmediatamente. Cada personaje tiene niveles de tolerancia asociados al valor de sus dominios Cuerpo y Mente.
 
 ## Secuelas
 
