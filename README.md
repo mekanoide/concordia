@@ -1,3 +1,9 @@
+---
+cover: >-
+  .gitbook/assets/mekanoide_futuristic_vertical_city_busy_and_dense_vertical_gard_6c5555ae-20ef-42e5-a120-daf285bc5d7c.png
+coverY: 0
+---
+
 # Introducción
 
 ¡Bienvenido a Concordia!
