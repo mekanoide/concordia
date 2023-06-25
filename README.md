@@ -1,7 +1,7 @@
 ---
 cover: >-
-  .gitbook/assets/mekanoide_futuristic_vertical_city_busy_and_dense_vertical_gard_6c5555ae-20ef-42e5-a120-daf285bc5d7c.png
-coverY: 0
+  .gitbook/assets/mekanoide_futuristic_underground_city_very_dense_narrow_streets_c149f143-7041-450d-8be1-c27082a99794.png
+coverY: -115
 ---
 
 # Introducción
