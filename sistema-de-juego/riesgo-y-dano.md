@@ -16,9 +16,11 @@ Morght trata de orientarse y liderar al grupo de personajes por un bosque, pero 
 
 ## Tolerancia
 
-Cuando un personaje recibe daño, este no provoca consecuencias negativas inmediatamente. Cada personaje tiene niveles de tolerancia asociados al valor de sus dominios Cuerpo y Mente.
+El daño recibido no provoca consecuencias inmediatamente. Cada personaje tiene niveles de tolerancia para daño físico y mental asociados al valor de sus dominios Cuerpo y Mente.\
+\
+Cuando el personaje recibe daño, lo asigna al contador de tolerancia que corresponda por el tipo de daño. Si el daño excede la tolerancia disponible, este se convertirá en consecuencias.
 
-## Secuelas
+## Consecuencias
 
 El daño que el personaje recibe tiene carácter narrativo y se representa mediante secuelas. Parecido a un rasgo, **una secuela consiste en una pequeña descripción y un nivel de gravedad**.
 
