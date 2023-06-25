@@ -2,7 +2,7 @@
 
 ## Sistema de juego
 
-* [Introducción](README.md)
+* [¡Concordia te da la bienvenida!](README.md)
 * [Creación de personajes](<README (1).md>)
 * [Cómo jugar](como-jugar/como-jugar.md)
 * [Dificultad, mérito y actitud](sistema-de-juego/dificultad-merito-y-actitud.md)
