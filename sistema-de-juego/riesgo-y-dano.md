@@ -6,7 +6,7 @@
 
 </div>
 
-Durante el juego, los personajes se pueden exponer a situaciones peligrosas que les causen daño. En Concordia, se considera daño a cualquier efecto negativo sobre un personaje. No se limita al impacto sobre la salud física, sino que puede manifestarse como inseguridad, confusión, ansiedad social, frustración, fiebre, cansancio o desorientación, entre otros.
+Durante el juego, los personajes se pueden exponer a situaciones peligrosas. En Concordia, se considera daño a cualquier efecto negativo sobre un personaje. No se limita al impacto sobre la salud física, sino que puede manifestarse como inseguridad, confusión, ansiedad social, frustración, fiebre, cansancio o desorientación, entre otros.
 
 **Cada fallo en una tirada de dados es susceptible de causar daño a los personajes**, dependiendo de la naturaleza de la situación y su nivel de riesgo. Podemos establecer tres niveles de riesgo, que determinarán el daño recibido en caso de fallo.\
 \
