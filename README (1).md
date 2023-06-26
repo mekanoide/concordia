@@ -1,6 +1,10 @@
 # Creación de personajes
 
+<div data-full-width="true">
+
 <figure><img src=".gitbook/assets/mekanoide_group_of_characters_in_a_futuristic_boat_sunny_weathe_7dac0ecf-d9e0-4270-b8c8-6b4761581dda.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 En Concordia no existen clases, profesiones o arquetipos, tampoco listados de habilidades o talentos. Cada personaje es único y se compone de unos pocos elementos.
 

@@ -1,5 +1,11 @@
 # Enfrentamientos
 
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/mekanoide_heated_debate_between_a_woman_and_a_robot_sci-fi_film_cb3964d9-d540-498b-87e8-620d477178ae.png" alt="Picture of a robot facing a defiant woman"><figcaption></figcaption></figure>
+
+</div>
+
 En Concordia, un enfrentamiento abarca cualquier situación en la que los personajes jugadores se encuentran con una oposición activa, ya sea en una negociación, una competición deportiva, un intento de manipulación o seducción, un debate y por supuesto un combate.
 
 Muchos otros juegos tienen mecánicas específicas para este tipo de situaciones, pero en Concordia se tratan como cualquier otro tipo de escena y las mismas reglas aplican, con algunas adiciones.

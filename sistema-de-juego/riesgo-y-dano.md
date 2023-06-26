@@ -2,7 +2,7 @@
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/mekanoide_sci-fi_woman_falling_from_a_window_futuristic_alley_s_47303272-f493-4ff4-aeb0-ae4b43106e10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mekanoide_sci-fi_woman_falling_from_a_window_futuristic_alley_s_8bbe12e2-0a5e-4c4a-ae61-4b3ff7449ed5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

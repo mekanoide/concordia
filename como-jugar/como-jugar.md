@@ -1,6 +1,10 @@
 # Cómo jugar
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/mekanoide_futuristic_explorers_crossing_a_bridge_over_a_jungle__8da900ae-2ce9-49ff-b727-c2a9ef1c7e75.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 El juego es una conversación entre el director y los jugadores. El director describe el mundo del juego, mientras que los jugadores dan vida a sus personajes y narran cómo reaccionan ante las situaciones presentadas. En Concordia no se busca simular la realidad, sino crear una narración de ficción.
 
