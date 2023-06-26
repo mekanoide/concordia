@@ -1,10 +1,12 @@
 # Daño
 
-Durante el juego, los personajes se pueden exponer a situaciones peligrosas que les causen daño. En Concordia, daño se considera cualquier efecto negativo sobre un personaje. Es decir, no se limita un impacto sobre la salud física, sino que puede manifestarse también como inseguridad, confusión, ansiedad social, fiebre, cansancio o desorientación, entre otros.
+<div data-full-width="true">
 
-{% hint style="info" %}
-Morght trata de orientarse y liderar al grupo de personajes por un bosque, pero falla su tirada de entorno. El director puede decidir que se ha golpeado con una rama y se ha abierto una pequeña brecha en la cabeza. O puede considerar que esta confusión ha drenado su confianza, dañando su autoestima. O incluso que el escarnio sufrido por haber perdido al grupo le hace recuperar una tartamudez casi olvidada.
-{% endhint %}
+<figure><img src="../.gitbook/assets/mekanoide_sci-fi_woman_falling_from_a_window_futuristic_alley_s_47303272-f493-4ff4-aeb0-ae4b43106e10.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Durante el juego, los personajes se pueden exponer a situaciones peligrosas que les causen daño. En Concordia, se considera daño a cualquier efecto negativo sobre un personaje. No se limita al impacto sobre la salud física, sino que puede manifestarse como inseguridad, confusión, ansiedad social, frustración, fiebre, cansancio o desorientación, entre otros.
 
 **Cada fallo en una tirada de dados es susceptible de causar daño a los personajes**, dependiendo de la naturaleza de la situación y su nivel de riesgo. Podemos establecer tres niveles de riesgo, que determinarán el daño recibido en caso de fallo.\
 \
@@ -14,11 +16,19 @@ Morght trata de orientarse y liderar al grupo de personajes por un bosque, pero 
 
 **Riesgo alto:** en una Escena de alto riesgo, las consecuencias de un fallo pueden ser catastróficas y cambiar notablemente el rumbo de la narración. La propia continuidad de los personajes en la narración puede estar en peligro. El fallo en una escena de alto riesgo supone **3 puntos de daño**.
 
+{% hint style="info" %}
+Morght trata de orientarse y liderar al grupo de personajes por un bosque, pero falla su tirada de entorno. El director puede decidir que durante este infortunado intento se ha golpeado con una rama y se ha abierto una pequeña brecha en la cabeza. O puede considerar que esta confusión ha drenado su confianza, dañando su autoestima. O incluso que el escarnio sufrido por haber perdido al grupo le hace recuperar una tartamudez casi olvidada.
+{% endhint %}
+
+## Revés
+
+Independientemente del éxito o fallo de la tirada, un revés en el dado de sucesos puede convertirse en daño. En este caso es una cantidad fija de **un punto de daño** que puede sumarse al daño en caso de fallo, o incluso al daño producido por otro revés.
+
 ## Tolerancia
 
 El daño recibido no provoca consecuencias inmediatamente. Cada personaje tiene niveles de tolerancia para daño físico y mental asociados al valor de sus dominios Cuerpo y Mente.\
 \
-Cuando el personaje recibe daño, lo asigna al contador de tolerancia que corresponda por el tipo de daño. Si el daño excede la tolerancia disponible, este se convertirá en consecuencias.
+Cuando el personaje recibe daño, lo asigna al contador de tolerancia que corresponda por el tipo de daño. Solo si el daño excede la tolerancia disponible, este se convertirá en consecuencias.
 
 ## Consecuencias
 
