@@ -8,3 +8,5 @@
 * [Dificultad, mérito y actitud](sistema-de-juego/dificultad-merito-y-actitud.md)
 * [Enfrentamientos](sistema-de-juego/enfrentamientos.md)
 * [Daño](sistema-de-juego/riesgo-y-dano.md)
+* [Recuperación](sistema-de-juego/recuperacion.md)
+* [Evolución del personaje](sistema-de-juego/evolucion-del-personaje.md)

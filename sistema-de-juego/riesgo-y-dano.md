@@ -22,7 +22,7 @@ Morght trata de orientarse y liderar al grupo de personajes por un bosque, pero 
 
 ## Revés
 
-Independientemente del éxito o fallo de la tirada, un revés en el dado de sucesos puede convertirse en daño. En este caso es una cantidad fija de **un punto de daño** que puede sumarse al daño en caso de fallo, o incluso al daño producido por otro revés.
+Independientemente del éxito o fallo de la tirada, un revés en el dado de sucesos puede convertirse en **un punto de daño** que puede sumarse al daño en caso de fallo, o incluso al daño producido por otro revés.
 
 ## Tolerancia
 
@@ -41,22 +41,3 @@ Si se recibe una secuela y no queda ningún espacio disponible, el personaje que
 {% hint style="info" %}
 Ejemplos de secuelas son una herida de bala, un brazo roto, agotamiento, hipotermia, ansiedad social, cojera por esguince, descoordinación, agujetas, baja autoestima, un problema en el habla, sordera, fiebre, desorientación.
 {% endhint %}
-
-## Cómo se adquiere el daño
-
-De manera general, cada vez que se falla una tirada se recibe daño.
-
-Cuando la tirada contiene un Revés, este puede tornarse en daño.
-
-Riesgo bajo: un fallo en una escena de escaso riesgo&#x20;
-
-
-
-Cada escena en Concordia tiene un nivel de riesgo asociado, que determina el posible daño que los personajes pueden recibir en caso de un fallo o un Revés. Hay tres niveles de riesgo: bajo, medio y alto.
-
-**Riesgo bajo:** si un personaje falla en su tirada, no sufre daño. Sin embargo, puede recibir una Secuela leve en caso de experimentar un Revés.
-
-**Riesgo medio:** en caso de fallo, el personaje recibe una Secuela leve. Además, si se enfrenta a un Revés, puede sufrir un punto adicional de daño.
-
-**Riesgo alto:** un fallo implica una Secuela leve. Si se produce un Revés, el personaje está expuesto a una Secuela grave. Cuando se dan las dos circunstancias,&#x20;
-

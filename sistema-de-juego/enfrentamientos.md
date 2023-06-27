@@ -20,7 +20,7 @@ En situaciones donde el contrincante es excepcional o los personajes se hayan en
 
 ## Enfrentamientos épicos
 
-Cuando un enfrentamiento es de especial relevancia para la historia, el director puede dividirlo en tres fases. Cada fase se trata como una escena independiente con sus propias limitaciones (es decir, las acciones deben ser diferentes a las de la fase anterior y los jugadores no pueden repetir acciones).
+Cuando un enfrentamiento es de especial relevancia para la historia, **puede dividirse en tres fases**. Cada fase se trata como una escena independiente con sus propias limitaciones (es decir, las acciones deben ser diferentes a las de la fase anterior y los jugadores no pueden repetir acciones).
 
 Hay sin embargo una particularidad: los jugadores pueden reservarse dados de éxito de sus tiradas y transformarlos en dados adicionales que lanzar en la siguiente fase.
 

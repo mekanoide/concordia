@@ -99,3 +99,10 @@ Relacionado con lo anterior, **el final de una escena no puede ser idéntico a s
 {% hint style="info" %}
 Vamos a seguir con el ejemplo del intento de allanamiento. Si el jugador falla en su intento de abrir la puerta, el desenlace de esta escena no se limita a negar el éxito manteniendo las mismas condiciones que al comienzo. Si ese fuese el caso, nada impediría que los jugadores decidiesen insistir en la misma acción machaconamente hasta salirse con la suya. No queremos matar la inmersión diciendo a los jugadores que simplemente no pueden repetir la acción porque lo pone en las reglas. Es por ello que la narración debería dejar claro que esa opción ya no está ahí. Bien han dedicado mucho tiempo sin ningún progreso y se han dado por vencidos, bien han llamado suficiente la atención y tienen que desaparecer de allí, bien se han dado cuenta de que sus herramientas no son apropiadas, o alguien ha aparecido en la escena y los ha confrontado.
 {% endhint %}
+
+## Cuándo tira dados el director?
+
+En Concordia, el director de juego en general no tira dados. Pero hay una excepción a esta limitación, que es cuando prefiere que el azar decida entre varias opciones negativas, y así descargarse de la responsabilidad.
+
+Hay dos escenarios en los que esto puede ocurrir: cuando tiene que escoger a un personaje jugador al que le ocurra algo, y cuando .\
+\
