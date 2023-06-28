@@ -1,5 +1,11 @@
 # Dificultad, mérito y actitud
 
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/mekanoide_group_of_futuristic_explorers_walk_a_nuclear_wastelan_d76a7404-6270-44d7-865d-3da0193b004b.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 En Concordia existen mecánicas de riesgo, dificultad, ventajas y actitud que influyen en las probabilidades de éxito en una Escena, añaden cierto grado de estrategia al juego y animan a los jugadores a adaptarse a las circunstancias y explorar diferentes enfoques para resolver las escenas.
 
 ## Dificultad
