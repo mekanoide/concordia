@@ -26,15 +26,21 @@ Independientemente del éxito o fallo de la tirada, un revés en el dado de suce
 
 ## Tolerancia
 
-El daño recibido no provoca consecuencias inmediatamente. Cada personaje tiene niveles de tolerancia para daño físico y mental asociados al valor de sus dominios Cuerpo y Mente.\
-\
-Cuando el personaje recibe daño, lo asigna al contador de tolerancia que corresponda por el tipo de daño. Solo si el daño excede la tolerancia disponible, este se convertirá en consecuencias.
+El daño no provoca consecuencias inmediatamente. Cuando el personaje recibe daño, lo asigna al contador de tolerancia que corresponda por el tipo de daño (físico o mental). Solo si el daño excede la tolerancia disponible, este se convertirá en consecuencias.
 
 ## Consecuencias
 
-El daño que el personaje recibe tiene carácter narrativo y se representa mediante secuelas. Parecido a un rasgo, **una secuela consiste en una pequeña descripción y un nivel de gravedad**.
+El daño que el personaje recibe tiene carácter narrativo y se representa mediante consecuencias. Parecido a un rasgo, **una consecuencia consiste en una pequeña descripción**.
 
-Existen cuatro espacios para secuelas: **dos leves, una grave y una muy grave**. Cuando un personaje recibe una secuela y no hay espacio disponible en el nivel de gravedad que le correspondería, se convierte en una secuela de gravedad superior.
+**Cuando el daño recibido supera la capacidad de su tolerancia, la diferencia se convierte en una consecuencia.** Las consecuencias tienen tres posibles gravedades: **leve, grave y muy grave**, y cada personaje puede tener un máximo de una de cada.\
+\
+**Consecuencia leve:** 1 punto de daño.
+
+**Consecuencia grave:** 2 puntos de daño.
+
+**Consecuencia muy grave:** 3 puntos de daño.
+
+Cuando un personaje recibe una secuela y no hay espacio disponible en el nivel de gravedad que le correspondería, se convierte en una secuela de gravedad superior.
 
 Si se recibe una secuela y no queda ningún espacio disponible, el personaje queda fuera de juego, ya sea permanentemente o hasta que lo rehabiliten.
 
