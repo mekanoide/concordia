@@ -24,6 +24,8 @@ Escoge una distribución:
 
 ### Tolerancia
 
-La tolerancia física es igual al número de dados en el dominio cuerpo, y la mental igual al número de dados en el dominio mente
+La tolerancia es igual al número de dados del dominio correspondiente.
+
+## Jugar
 
 ### &#x20;
