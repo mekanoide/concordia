@@ -26,24 +26,28 @@ Independientemente del éxito o fallo de la tirada, un revés en el dado de suce
 
 ## Tolerancia
 
-El daño no provoca consecuencias inmediatamente. Cuando el personaje recibe daño, lo asigna al contador de tolerancia que corresponda por el tipo de daño (físico o mental). Solo si el daño excede la tolerancia disponible, este se convertirá en consecuencias.
+El daño no provoca consecuencias inmediatamente. El daño es absorbido por el contador de tolerancia que corresponda por el tipo de daño (físico o mental).
 
 ## Consecuencias
 
-El daño que el personaje recibe tiene carácter narrativo y se representa mediante consecuencias. Parecido a un rasgo, **una consecuencia consiste en una pequeña descripción**.
+Cuando el daño excede la tolerancia disponible, este se convertirá en una consecuencia. Una consecuencia consiste en una pequeña descripción, igual que un rasgo pero con efectos negativos.
 
-**Cuando el daño recibido supera la capacidad de su tolerancia, la diferencia se convierte en una consecuencia.** Las consecuencias tienen tres posibles gravedades: **leve, grave y muy grave**, y cada personaje puede tener un máximo de una de cada.\
-\
-**Consecuencia leve:** 1 punto de daño.
+**La cantidad de daño que supera la tolerancia del personaje marca la gravedad de la consecuencia.**
 
-**Consecuencia grave:** 2 puntos de daño.
+**Consecuencia leve (1 punto de daño):** representa una molestia que no tiene un impacto significativo en la mayoría de actividades del personaje, excepto en situaciones específicas. El personaje tira un dado menos cuando se da esa situación.
 
-**Consecuencia muy grave:** 3 puntos de daño.
+**Consecuencia grave (2 puntos de daño):** la consecuencia grave tiene una presencia más notable y afecta a todas las tiradas que involucren el componente físico o mental, según corresponda. En cada una de esas tiradas, el personaje tira un dado menos.
 
-Cuando un personaje recibe una secuela y no hay espacio disponible en el nivel de gravedad que le correspondería, se convierte en una secuela de gravedad superior.
+**Consecuencia muy grave (3 puntos de daño):** este nivel de consecuencia tiene un impacto generalizado en todas las acciones del personaje. En cualquier situación, el personaje tira un dado menos. Además, cuando la consecuencia muy grave obstaculiza específicamente un tipo de acción, el personaje tira dos dados menos en esas circunstancias.
 
-Si se recibe una secuela y no queda ningún espacio disponible, el personaje queda fuera de juego, ya sea permanentemente o hasta que lo rehabiliten.
+Cada personaje tiene espacio para dos consecuencias leves, una grave y una muy grave.
+
+Cuando un personaje recibe una consecuencia y no hay espacio disponible en el nivel de gravedad que le corresponde, se convierte en una de gravedad superior.
+
+Si se tienen todas las consecuencias permitidas y se recibe daño adicional, el personaje queda fuera de juego, ya sea permanentemente o hasta que lo recuperen.
 
 {% hint style="info" %}
-Ejemplos de secuelas son una herida de bala, un brazo roto, agotamiento, hipotermia, ansiedad social, cojera por esguince, descoordinación, agujetas, baja autoestima, un problema en el habla, sordera, fiebre, desorientación.
+Zutano se cae en una zanja tratando de trepar un muro. Recibe 2 puntos de daño. Le queda un solo punto en el contador de tolerancia, por lo que el punto restante pasa a convertirse en una consecuencia leve: tiene la cara llena de heridas y arañazos.\
+\
+Al ser una consecuencia leve no le afecta demasiado, aunque cuando esa misma noche intenta disuadir a un policía de que le ponga una multa, el aspecto de su rostro juega en su contra.&#x20;
 {% endhint %}
