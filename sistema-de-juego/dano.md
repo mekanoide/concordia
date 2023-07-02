@@ -6,7 +6,7 @@
 
 </div>
 
-Durante el juego, los personajes se pueden exponer a situaciones peligrosas. En Concordia, se considera daño a cualquier efecto negativo sobre un personaje. No se limita al impacto sobre la salud física, sino que puede manifestarse como inseguridad, confusión, ansiedad social, frustración, fiebre, cansancio o desorientación, entre otros.
+Durante el juego, los personajes se pueden exponer a situaciones peligrosas. En Concordia, se considera daño a cualquier efecto negativo sobre un personaje. No se limita al impacto sobre la salud física, sino que puede manifestarse como inseguridad, confusión, ansiedad social, frustración, fiebre, cansancio o desorientación, entre otros muchos.
 
 **Cada fallo en una tirada de dados es susceptible de causar daño a los personajes**, dependiendo de la naturaleza de la situación y su nivel de riesgo. Podemos establecer tres niveles de riesgo, que determinarán el daño recibido en caso de fallo.\
 \
@@ -44,10 +44,18 @@ Cada personaje tiene espacio para dos consecuencias leves, una grave y una muy g
 
 Cuando un personaje recibe una consecuencia y no hay espacio disponible en el nivel de gravedad que le corresponde, se convierte en una de gravedad superior.
 
-Si se tienen todas las consecuencias permitidas y se recibe daño adicional, el personaje queda fuera de juego, ya sea permanentemente o hasta que lo recuperen.
-
 {% hint style="info" %}
 Zutano se cae en una zanja tratando de trepar un muro. Recibe 2 puntos de daño. Le queda un solo punto en el contador de tolerancia, por lo que el punto restante pasa a convertirse en una consecuencia leve: tiene la cara llena de heridas y arañazos.\
 \
 Al ser una consecuencia leve no le afecta demasiado, aunque cuando esa misma noche intenta disuadir a un policía de que le ponga una multa, el aspecto de su rostro juega en su contra.&#x20;
+{% endhint %}
+
+## Incapacitación o muerte
+
+Si un personaje recibe una consecuencia que no puede asignar, el personaje queda fuera de juego, ya sea permanentemente o hasta que lo recuperen.
+
+En ciertas situaciones, la única resolución lógica es la incapacitación o muerte del personaje independientemente de las mecánicas de daño. Cuando el director toma esta resolución debe haber quedado claro a los personajes que este era un posible desenlace.
+
+{% hint style="info" %}
+Francois salta desde un dirigible con el objetivo de atrapar a un contrincante en el aire y quitarle su jetpack, confiando ciegamente en sus capacidades atléticas. La suma de su dominio cuerpo y su rasgo _Acróbata excelente_ se ve limitada por la enorme dificultad de la acción, que le resta dos dados. No logra ningún éxito y el director decide que Francois muere tras una agónica caída de cuatrocientos metros.
 {% endhint %}
