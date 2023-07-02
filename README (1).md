@@ -13,20 +13,20 @@ En Concordia no existen clases, profesiones o arquetipos, tampoco listados de ha
 El rasgo es el elemento central que distingue a los personajes entre sí. Cada personaje se define por unos pocos rasgos, que son breves descripciones que reflejan su biografía, carrera, aficiones, personalidad o características físicas. Un rasgo es una frase corta que describe lo que caracteriza a ese personaje.
 
 {% hint style="info" %}
-Para entenderlo mejor, imagina que alguien te pide que describas a un amigo o incluso a ti mismo en tan solo cuatro frases. En Concordia, cada una de esas frases sería un rasgo, una característica clave que define al personaje de manera general y concisa.\
+Imagina que alguien te pide que describas a un amigo, un personaje de ficción o incluso a ti mismo en tan solo tres o cuatro frases. En Concordia, cada una de esas frases sería un rasgo.\
 \
-Tenemos la idea para un personaje inquieto y simpático que se crió en una flota pirata. Podríamos convertir este concepto en tres Rasgos: _Nervioso y alerta como una ardilla_, _Se crió en el océano Índico, en una flota pirata errante_ e _Adulador, irresistiblemente encantador_. El primer rasgo puede servirle para enfrentarse a situaciones en las que prima la velocidad de respuesta, estar alerta o la agilidad. El segundo puede ser de gran utilidad en un entorno marino, o en el área del mundo en que se crió, también puede ayudar en combates así como brindar un conocimiento de los bajos fondos y el mercado negro. El tercero será muy útil en situaciones sociales de todo tipo, seducción, negociaciones, e incluso para hacer contactos y acudir a ellos.
+Tenemos la idea para un personaje inquieto y simpático que se crió en una flota pirata. Podríamos convertir este concepto en tres Rasgos: _Nervioso y alerta como una ardilla_, _Se crió en una flota pirata errante en el océano Índico_ e _Irresistiblemente encantador, siempre con una sonrisa en la boca_. El primer rasgo puede servirle para enfrentarse a situaciones en las que prima la velocidad de respuesta, estar alerta o la agilidad. El segundo puede ser de gran utilidad en un entorno marino, o en el área del mundo en que se crió, también puede ayudar en combates así como brindar un conocimiento de los bajos fondos y el mercado negro. El tercero será muy útil en situaciones sociales de todo tipo, seducción, negociaciones, e incluso para hacer contactos y acudir a ellos.
 {% endhint %}
 
 ### Niveles de los rasgos
 
-Los rasgos tienen tres posibles niveles que representan su relevancia, rareza e intensidad.
+Los rasgos tienen tres posibles niveles que representan su relevancia, rareza e intensidad. Entre paréntesis los dados que usar el rasgo implica tirar.
 
-**Rasgo corriente (1d):** representa una característica secundaria del personaje que no representa nada excepcional. Es parte de su identidad, pero no destaca especialmente.
+**Rasgo corriente (1d):** representa una característica secundaria del personaje que no resulta excepcional. Es parte de su identidad, pero no destaca especialmente.
 
 **Rasgo notable (2d):** tiene un papel central para el personaje. Este ha invertido mucho tiempo, esfuerzo o recursos en desarrollarlo y es fundamental para su historia y motivaciones.
 
-**Rasgo extraordinario (3d):** condiciona completamente la vida del personaje y lo hace destacar entre los demás. Es algo único y excepcional, lo que lo puede convertirlo en una figura reconocida en el mundo.
+**Rasgo extraordinario (3d):** condiciona completamente la vida del personaje y lo hace destacar entre los demás. Es algo único y excepcional, lo que lo puede convertirlo en una figura reconocida en el mundo. Un rasgo extraordinario es muy útil, pero a veces puede jugar en contra del personaje si lo que busca es pasar desapercibido.
 
 ### Distribución de los rasgos
 
