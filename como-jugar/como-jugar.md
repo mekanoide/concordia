@@ -6,17 +6,17 @@
 
 </div>
 
-El juego es una conversación entre el director y los jugadores. El director describe el mundo del juego, mientras que los jugadores dan vida a sus personajes y narran cómo reaccionan ante las situaciones presentadas. En Concordia no se busca simular la realidad, sino crear una narración de ficción.
+Concordia no busca simular la realidad, sino crear una narración.
 
-Antes de meternos a explicar las reglas, recuerda que una de las más importantes es saltárselas cuando sea necesario. Puedes ignorar o modificar cualquier mecánica que obstaculice la fluidez del juego, carezca de lógica o resulte poco satisfactoria en una situación concreta. Es importante aplicar este principio con cuidado y transparencia para evitar que los jugadores perciban la toma de decisiones como arbitraria o injusta. ¡Pero recuerda que las reglas están para servir a la historia y no al revés!
+Como director tu misión es describir el mundo y las situaciones que se suceden, facilitar la reacción de tus jugadores y hacer que sus acciones hagan avanzar la historia. Hacer que la historia narración es uno de los pilares de Concordia, quizá el único pilar. Por ello recuerda que las reglas están para saltárselas si crees que obstaculizan la fluidez o lógica de la narración. Eso sí, trata de hacerlo de forma justificada y con transparencia para evitar que los jugadores perciban tu toma de decisiones como arbitraria o injusta. No hay nada peor que una partida de rol en la que los jugadores no confían en el árbitro.
 
 ## Escenas
 
 La unidad fundamental de la narración en Concordia es la escena. Las escenas no representan acciones individuales, ni segmentos de tiempo, sino situaciones con entidad narrativa, es decir, en las que se dan unas circunstancias concretas. Las escenas, por tanto, pueden durar desde unos segundos hasta lapsos de tiempo de años.
 
-Cada escena consta de tres partes: planteamiento, reacción y desenlace.\
+Se puede considerar que una escena tiene tres fases: planteamiento, reacción y desenlace.\
 \
-Durante el **planteamiento**, el director narra el punto de partida de la escena, describe la situación en que los personajes se encuentran, y la deja abierta para la reacción de los jugadores.\
+El planteamiento sirve para hacer entender a los jugadores la situación en que sus personajes están inmersos. Esta fase puede ser descrita con mucho detalle o solo esbozada según tu estilo y momento de la aventura, pero debería incluir al menos la información mínima necesaria para que la reacción de tus jugadores.\
 \
 En la fase de **reacción**, los jugadores describen sus objetivos para resolver la escena y cómo intentarán lograrlos.\
 \
