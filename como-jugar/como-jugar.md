@@ -12,15 +12,25 @@ Como director tu misión es describir el mundo y las situaciones que se suceden,
 
 ## Escenas
 
-La unidad fundamental de la narración en Concordia es la escena. Las escenas no representan acciones individuales, ni segmentos de tiempo, sino situaciones con entidad narrativa, es decir, en las que se dan unas circunstancias concretas. Las escenas, por tanto, pueden durar desde unos segundos hasta lapsos de tiempo de años.
+La unidad fundamental de la narración en Concordia es la escena. Las escenas no representan acciones individuales, ni segmentos de tiempo concretos. Son más bien situaciones con entidad narrativa en las que la acción de los personajes puede precipitar diferentes resultados y cambiar la historia. Una escena puede durar un segundo o dos años.
 
-Se puede considerar que una escena tiene tres fases: planteamiento, reacción y desenlace.\
-\
-El planteamiento sirve para hacer entender a los jugadores la situación en que sus personajes están inmersos. Esta fase puede ser descrita con mucho detalle o solo esbozada según tu estilo y momento de la aventura, pero debería incluir al menos la información mínima necesaria para que la reacción de tus jugadores.\
-\
-En la fase de **reacción**, los jugadores describen sus objetivos para resolver la escena y cómo intentarán lograrlos.\
-\
-En el **desenlace** se resuelve la escena ya sea con o sin tiradas de dados. **El desenlace lleva a los jugadores en la dirección de sus objetivos si tienen éxito, o en una fuera de su control sin fallan**. Esto último no siempre tiene por qué ser negativo.
+{% hint style="info" %}
+Ejemplos de escena pueden ser: los personajes tratan de cruzar un puente colgante y este se rompe a medio camino; dos personajes se retan a un combate de boxeo; durante tres meses, los personajes tratan de obtener información sobre una célula terrorista que actúa en la ciudad; durante un paseo por el parque, un robot policía hackeado abre fuego sobre los personajes.
+{% endhint %}
+
+Pese a la naturaleza muy diferente de las escenas, se puede considerar que todas comparten tres fases: planteamiento, reacción y desenlace.
+
+### Planteamiento
+
+El planteamiento sirve para hacer entender a los jugadores la situación en que sus personajes están inmersos. Esta fase puede ser descrita con mucho detalle o solo esbozada según tu estilo y momento de la aventura, pero debería incluir al menos la información mínima necesaria para que la reacción de tus jugadores.
+
+### Reacción
+
+En la fase de **reacción**, los jugadores describen sus objetivos para resolver la escena y cómo intentarán lograrlos.
+
+### Desenlace
+
+En el **desenlace** se resuelve la escena ya sea con o sin tiradas de dados. **El desenlace lleva a los jugadores en la dirección de sus objetivos si tienen éxito, o en una fuera de su control si fallan**.
 
 {% hint style="info" %}
 Imaginemos que un personaje trata de forzar una puerta cerrada. La tirada de dados que decide el desenlace de esta Escena no representa un intento aislado de abrirla, sino que engloba todos los intentos que el personaje realiza hasta que finalmente lo logra o decide darse por vencido, o se le acaba el tiempo de que disponía para hacerlo, o aparece alguien en el pasillo, o está claro que no puede mantener la discreción por más tiempo.
@@ -30,11 +40,15 @@ Imaginemos que un personaje trata de forzar una puerta cerrada. La tirada de dad
 ¿Qué es eso de entidad narrativa? Imaginemos que los jugadores quieren hacer un largo viaje en velero. La primera escena es una descripción de su recorrido a lo largo de miles de kilómetros que les lleva varias semanas. Una tirada de dados determina si todo ese recorrido ha ido bien o si por el contrario ha habido algún tipo de incidente. La siguiente escena es una tempestad en la que los personajes jugadores tendrán que hacerse con el control del barco. En la siguiente escena, el barco golpea una roca y se verán obligados a efectuar reparaciones de emergencia para que no se hunda. En la última escena del ejemplo, el velero logra, después de un par de días complicados, llegar a puerto donde los personajes efectuarán reparaciones más duraderas. En una escena han transcurrido semanas, en otra unos minutos, en la siguiente horas y en la última dos días.&#x20;
 {% endhint %}
 
-## Desenlace narrativo
+### Desenlace narrativo
 
-Si no hay incertidumbre, riesgo o la escena tiene escasa relevancia para la historia, todo puede ser resuelto de manera narrativa, sin tirar dados. En este caso, los jugadores y el director colaboran para desarrollar la escena, echando mano de los Rasgos de los personajes si estos pueden influir en la situación.
+Si no hay incertidumbre, riesgo o la escena tiene escasa relevancia para la historia, todo puede ser resuelto de manera narrativa, sin tirar dados. En este caso, los jugadores y el director colaboran para desarrollar la escena, echando mano de los Rasgos de los personajes si estos pueden influir en la situación. Un desenlace narrativo no tiene por qué concluir en éxito, si lo que los jugadores intentan resulta obviamente imposible, puedes resolver la escena con un fracaso.
 
-## Desenlace con dados
+{% hint style="info" %}
+Ejemplo: Lupercio trata de examinar su cuerpo en medio de una multitud, quitándose la ropa sin que nadie lo note. Como director, puedes decidir que es imposible para una persona desnudarse en público sin que nadie se de cuenta. La escena se resuelve con varias personas preguntando "¿pero qué hace, señor?".
+{% endhint %}
+
+## Tirada de dados
 
 Cuando una escena es relevante para la narración y además tiene incertidumbre o riesgo, se suele resolver tirando dados.\
 \
